@@ -87,4 +87,4 @@
 
 ## Decisión
 
-**La v1.4 no se certifica por inclusión textual: sus bloques son resúmenes. La candidate v1.5 reemplaza cada resumen por la fuente base completa y conserva las revisiones posteriores como adendas trazables.**
+**La v1.4 no se certifica por inclusión textual: sus bloques son resúmenes. La v1.5 sustituye cada resumen por la fuente base completa y conserva las revisiones posteriores como adendas trazables.**

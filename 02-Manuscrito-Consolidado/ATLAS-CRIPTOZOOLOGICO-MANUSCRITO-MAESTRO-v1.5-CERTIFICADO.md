@@ -1,4 +1,4 @@
-# ATLAS CRIPTOZOOLÓGICO — MANUSCRITO MAESTRO v1.5-CANDIDATO
+# ATLAS CRIPTOZOOLÓGICO — MANUSCRITO MAESTRO v1.5-CERTIFICADO
 ## Manuscrito Maestro Consolidado Definitivo
 
 **Autoridad documental:** Resolución Maestra v2.44.
@@ -18,14 +18,14 @@
 
 18 expedientes canónicos · sistema IIIC · investigación documental · análisis crítico
 
-**Estado editorial:** Manuscrito Maestro Consolidado Definitivo v1.5-CANDIDATO
+**Estado editorial:** Manuscrito Maestro Consolidado Definitivo v1.5-CERTIFICADO
 
 ---
 
 # 2. CRÉDITOS / PÁGINA LEGAL
 
 **Título:** Atlas Criptozoológico — Volumen I: América  
-**Código editorial:** Manuscrito Maestro v1.5-CANDIDATO  
+**Código editorial:** Manuscrito Maestro v1.5-CERTIFICADO  
 **Autoridad documental:** Resolución Maestra v2.44  
 **Cuerpo:** 18 expedientes canónicos americanos
 
@@ -2443,7 +2443,7 @@ Sin embargo, no existe un espécimen, ADN, restos o evidencia fotográfica concl
 
 ## (N’HA-A-ITK / NAITAKA)
 
-**v1.5-CANDIDATO · EXPEDIENTE DOCUMENTAL**  
+**v1.5-CERTIFICADO · EXPEDIENTE DOCUMENTAL**  
 **Evaluación IIIC propuesta: NIVEL III**
 
 > **[ ESPACIO RESERVADO — ILUSTRACIÓN PRINCIPAL — OGOPOGO / RECONSTRUCCIÓN TESTIMONIAL ]**
@@ -2753,7 +2753,7 @@ Las fuentes disponibles no proporcionan un espécimen, ADN, restos o evidencia a
 
 ---
 
-**ATLAS CRIPTOZOOLÓGICO · AM-LAC-001 · v1.5-CANDIDATO**
+**ATLAS CRIPTOZOOLÓGICO · AM-LAC-001 · v1.5-CERTIFICADO**
 
 ---
 
@@ -9536,6 +9536,6 @@ La bibliografía de esta edición se limita a las referencias ya existentes en e
 
 ## Estado
 
-**ATLAS CRIPTOZOOLÓGICO — MANUSCRITO MAESTRO CONSOLIDADO DEFINITIVO v1.5-CANDIDATO**
+**ATLAS CRIPTOZOOLÓGICO — MANUSCRITO MAESTRO CONSOLIDADO DEFINITIVO v1.5-CERTIFICADO**
 
 **Estado: listo para revisión y aprobación editorial antes de Canva.**
