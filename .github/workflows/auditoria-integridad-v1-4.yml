@@ -6,6 +6,7 @@ on:
     paths-ignore:
       - '02-Manuscrito-Consolidado/AUDITORIA-AUTOMATIZADA-v1.4.md'
       - '02-Manuscrito-Consolidado/ATLAS-CRIPTOZOOLOGICO-MANUSCRITO-MAESTRO-v1.5-CANDIDATO.md'
+      - '02-Manuscrito-Consolidado/ATLAS-CRIPTOZOOLOGICO-MANUSCRITO-MAESTRO-v1.5-CERTIFICADO.md'
 
 permissions:
   contents: write
@@ -36,28 +37,20 @@ jobs:
               for p in root.rglob('*.md'):
                   s=str(p); n=p.name.upper()
                   if code not in s or any(x in s for x in excluded): continue
-                  if 'EXPEDIENTE' not in n and 'PAQUETE-FINAL' not in n and 'CIERRE' not in n and 'REPORTE' not in n and 'V2.' not in n.upper():
-                      continue
+                  if 'EXPEDIENTE' not in n and 'PAQUETE-FINAL' not in n and 'CIERRE' not in n and 'REPORTE' not in n and 'V2.' not in n.upper(): continue
                   out.append(p)
               return sorted(out,key=lambda p:(vkey(p),'PAQUETE-FINAL' in p.name.upper(),'EXPEDIENTE' in p.name.upper()),reverse=True)
 
           bases={}; addenda={}; rows=[]
           for code in codes:
               cs=all_candidates(code)
-              # Base = highest-version dedicated EXPEDIENTE; if absent, highest-version PAQUETE-FINAL.
               exp=[p for p in cs if 'EXPEDIENTE' in p.name.upper()]
               pkg=[p for p in cs if 'PAQUETE-FINAL' in p.name.upper()]
               base=(exp or pkg or cs)[:1]
               if not base:
                   rows.append((code,'NO BASE','ROJO',0,0,'')); continue
-              bp=base[0]; bdata=bp.read_text(encoding='utf-8'); bases[code]=bdata
-              bv=vkey(bp)
-              # Later-version review/closure/report/package files are preserved as addenda.
-              adds=[]
-              for p in cs:
-                  if p==bp: continue
-                  if vkey(p)>bv:
-                      adds.append(p)
+              bp=base[0]; bdata=bp.read_text(encoding='utf-8'); bases[code]=bdata; bv=vkey(bp)
+              adds=[p for p in cs if p!=bp and vkey(p)>bv]
               addenda[code]=adds
               marker='## '+code; start=text.find(marker)
               if start<0: block=''
@@ -72,8 +65,7 @@ jobs:
               exact=norm(bdata) in norm(block)
               sl=len(bdata.splitlines()); bl=len(block.splitlines())
               status='VERDE — ÍNTEGRO' if exact else ('ROJO — FALTA CONTENIDO' if bl<max(10,int(sl*.60)) else 'AMARILLO — REVISIÓN/ADENDA')
-              sha=hashlib.sha256(bdata.encode()).hexdigest()
-              rows.append((code,str(bp),status,sl,bl,sha))
+              rows.append((code,str(bp),status,sl,bl,hashlib.sha256(bdata.encode()).hexdigest()))
 
           report=['# Auditoría automatizada de integridad textual v1.4','', '**Criterio:** cada expediente se compara contra su fuente base canónica. Las revisiones posteriores se conservan como adendas, no sustituyen silenciosamente el expediente base.','']
           report += ['| Código | Fuente base | Dictamen v1.4 | Líneas fuente | Líneas v1.4 | SHA fuente |','|---|---|---|---:|---:|---|']
@@ -83,7 +75,7 @@ jobs:
               report.append('### '+code)
               for p in addenda.get(code,[]): report.append('- '+str(p))
               if not addenda.get(code): report.append('- Ninguna posterior a la fuente base seleccionada.')
-          report += ['', '## Decisión','', '**La v1.4 no se certifica por inclusión textual: sus bloques son resúmenes. La candidate v1.5 reemplaza cada resumen por la fuente base completa y conserva las revisiones posteriores como adendas trazables.**']
+          report += ['', '## Decisión','', '**La v1.4 no se certifica por inclusión textual: sus bloques son resúmenes. La v1.5 sustituye cada resumen por la fuente base completa y conserva las revisiones posteriores como adendas trazables.**']
           (root/'02-Manuscrito-Consolidado/AUDITORIA-AUTOMATIZADA-v1.4.md').write_text('\n'.join(report)+'\n',encoding='utf-8')
 
           exp_start=text.find('# 10. EXPEDIENTES CANÓNICOS')
@@ -96,13 +88,13 @@ jobs:
               for p in addenda.get(code,[]):
                   chunks.append('\n\n### ADENDA / REVISIÓN POSTERIOR — '+p.name+'\n\n'+p.read_text(encoding='utf-8'))
           candidate=front+'# 10. EXPEDIENTES CANÓNICOS — CONTENIDO ÍNTEGRO\n'+''.join(chunks)+'\n\n'+back
-          candidate=candidate.replace('v1.4','v1.5-CANDIDATO')
-          (root/'02-Manuscrito-Consolidado/ATLAS-CRIPTOZOOLOGICO-MANUSCRITO-MAESTRO-v1.5-CANDIDATO.md').write_text(candidate,encoding='utf-8')
+          candidate=candidate.replace('v1.4','v1.5-CERTIFICADO')
+          (root/'02-Manuscrito-Consolidado/ATLAS-CRIPTOZOOLOGICO-MANUSCRITO-MAESTRO-v1.5-CERTIFICADO.md').write_text(candidate,encoding='utf-8')
 
-      - name: Commit audit artifacts
+      - name: Commit certified source of truth
         run: |
           git config user.name 'Atlas Criptozoologico Bot'
           git config user.email 'actions@users.noreply.github.com'
-          git add 02-Manuscrito-Consolidado/AUDITORIA-AUTOMATIZADA-v1.4.md 02-Manuscrito-Consolidado/ATLAS-CRIPTOZOOLOGICO-MANUSCRITO-MAESTRO-v1.5-CANDIDATO.md
-          git diff --cached --quiet || git commit -m 'audit: assemble canonical bases and review addenda for v1.5 candidate [skip ci]'
+          git add 02-Manuscrito-Consolidado/AUDITORIA-AUTOMATIZADA-v1.4.md 02-Manuscrito-Consolidado/ATLAS-CRIPTOZOOLOGICO-MANUSCRITO-MAESTRO-v1.5-CERTIFICADO.md
+          git diff --cached --quiet || git commit -m 'v1.5 — FUENTE ÚNICA DE VERDAD PARA CANVA [skip ci]'
           git push
