@@ -1,0 +1,128 @@
+name: Auditoría íntegra v1.4
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - '02-Manuscrito-Consolidado/AUDITORIA-AUTOMATIZADA-v1.4.md'
+      - '02-Manuscrito-Consolidado/ATLAS-CRIPTOZOOLOGICO-MANUSCRITO-MAESTRO-v1.5-CANDIDATO.md'
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compare canonical sources and build candidate
+        shell: python
+        run: |
+          from pathlib import Path
+          import re, hashlib
+
+          root = Path('.')
+          master = root / '02-Manuscrito-Consolidado/ATLAS-CRIPTOZOOLOGICO-MANUSCRITO-MAESTRO-v1.4.md'
+          text = master.read_text(encoding='utf-8')
+
+          codes = [
+            'AM-HOM-001','AM-HOM-003','AM-HOM-004','AM-DEP-001','AM-DEP-002',
+            'AM-LAC-001','AM-LAC-002','AM-LAC-003','AM-VOL-001','AM-VOL-002',
+            'AM-MAR-001','AM-MAR-002','AM-ESP-001','AM-ESP-002','AM-ESP-003',
+            'AM-ESP-004','AM-ESP-005','AM-ESP-006'
+          ]
+
+          excluded = ('02-Manuscrito-Consolidado/', 'README.md', 'AUDITORIA', 'MATRIZ', 'RESOLUCION', 'BIBLIOGRAF', 'CHECKLIST', 'CONTROL')
+
+          def version_key(p):
+              nums = re.findall(r'v(\d+(?:\.\d+){0,3})', str(p), re.I)
+              if not nums:
+                  return (0,)
+              return tuple(int(x) for x in nums[-1].split('.'))
+
+          def candidates(code):
+              out=[]
+              for p in root.rglob('*.md'):
+                  s=str(p)
+                  if code not in s or any(x in s for x in excluded):
+                      continue
+                  # Prefer actual expediente files over notes/decisions.
+                  score = 0
+                  name=p.name.upper()
+                  if 'EXPEDIENTE' in name: score += 100
+                  if 'CANVA' in s.upper(): score -= 20
+                  if 'R1' in s.upper() or 'R2' in s.upper(): score += 5
+                  if 'v2.44' in s.lower(): score += 50
+                  out.append((score, version_key(p), p))
+              return sorted(out, reverse=True)
+
+          rows=[]
+          chosen={}
+          for code in codes:
+              cs=candidates(code)
+              if not cs:
+                  rows.append((code,'NO ENCONTRADA','ROJO',0,0,''))
+                  continue
+              p=cs[0][2]
+              data=p.read_text(encoding='utf-8')
+              chosen[code]=data
+              # Extract v1.4 block using the next canonical expediente heading.
+              marker='## '+code
+              start=text.find(marker)
+              if start < 0:
+                  block=''
+              else:
+                  nxt=[text.find('## '+c, start+len(marker)) for c in codes if text.find('## '+c, start+len(marker))>=0]
+                  end=min(nxt) if nxt else len(text)
+                  # Stop before closing editorial sections if present.
+                  for h in ('# 11.','# 12.','# 13.','# 14.','# 15.','# 16.','# 17.','# 18.','# 19.','# 20.'):
+                      pos=text.find(h,start+len(marker))
+                      if pos>=0 and pos<end: end=pos
+                  block=text[start:end]
+              # Exact source containment is the strictest test.
+              norm=lambda s: re.sub(r'\s+',' ',s).strip()
+              exact = norm(data) in norm(block)
+              source_lines=len(data.splitlines())
+              block_lines=len(block.splitlines())
+              if exact:
+                  status='VERDE — ÍNTEGRO'
+              elif block_lines < max(10, int(source_lines*0.60)):
+                  status='ROJO — FALTA CONTENIDO'
+              else:
+                  status='AMARILLO — REVISIÓN/ADENDA'
+              rows.append((code,str(p),status,source_lines,block_lines,hashlib.sha256(data.encode()).hexdigest()))
+
+          report=['# Auditoría automatizada de integridad textual v1.4','', '**Criterio:** comparación completa fuente canónica → bloque v1.4. La prueba exacta exige que el contenido fuente normalizado esté contenido en el bloque consolidado.','']
+          report += ['| Código | Fuente seleccionada | Dictamen | Líneas fuente | Líneas v1.4 | SHA fuente |','|---|---|---|---:|---:|---|']
+          for r in rows:
+              report.append('| '+' | '.join(str(x) for x in r)+' |')
+          report += ['', '## Interpretación','', '- VERDE: contenido fuente completo incluido en v1.4.', '- AMARILLO: el bloque contiene material sustantivo, pero no se demuestra inclusión íntegra; requiere sustitución por fuente canónica.', '- ROJO: el bloque consolidado es claramente más corto que la fuente o no se encontró fuente.', '', '## Decisión', '', '**No marcar v1.4 como fuente única hasta que no haya 18 VERDES.**']
+          (root/'02-Manuscrito-Consolidado/AUDITORIA-AUTOMATIZADA-v1.4.md').write_text('\n'.join(report)+'\n',encoding='utf-8')
+
+          # Build a candidate that keeps the approved editorial front matter and closing material,
+          # but replaces the 18 summary blocks with the full canonical source files.
+          exp_start=text.find('# 10. EXPEDIENTES CANÓNICOS')
+          if exp_start < 0:
+              raise SystemExit('No se encontró la sección 10 de expedientes en v1.4')
+          closing_positions=[]
+          for h in ('# 11.','# 12.','# 13.','# 14.','# 15.','# 16.','# 17.','# 18.','# 19.','# 20.'):
+              pos=text.find(h,exp_start+1)
+              if pos>=0: closing_positions.append(pos)
+          closing=min(closing_positions) if closing_positions else len(text)
+          front=text[:exp_start]
+          back=text[closing:]
+          chunks=[]
+          for code in codes:
+              chunks.append('\n---\n\n## '+code+' — FUENTE CANÓNICA INTEGRAL\n\n'+chosen.get(code,'[PENDIENTE DE FUENTE — NO REDACTAR / NO INVENTAR]'))
+          candidate=front+'# 10. EXPEDIENTES CANÓNICOS — CONTENIDO ÍNTEGRO\n'+''.join(chunks)+'\n\n'+back
+          candidate=candidate.replace('v1.4','v1.5-CANDIDATO')
+          (root/'02-Manuscrito-Consolidado/ATLAS-CRIPTOZOOLOGICO-MANUSCRITO-MAESTRO-v1.5-CANDIDATO.md').write_text(candidate,encoding='utf-8')
+
+      - name: Commit audit artifacts
+        run: |
+          git config user.name 'Atlas Criptozoologico Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add 02-Manuscrito-Consolidado/AUDITORIA-AUTOMATIZADA-v1.4.md 02-Manuscrito-Consolidado/ATLAS-CRIPTOZOOLOGICO-MANUSCRITO-MAESTRO-v1.5-CANDIDATO.md
+          git diff --cached --quiet || git commit -m 'audit: compare canonical sources and build v1.5 candidate [skip ci]'
+          git push
