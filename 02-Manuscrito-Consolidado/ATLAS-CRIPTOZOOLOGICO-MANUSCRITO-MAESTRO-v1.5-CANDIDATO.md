@@ -159,401 +159,368 @@ Expedientes asociados: AM-ESP-001 a AM-ESP-006.
 
 ## AM-HOM-001 — FUENTE CANÓNICA INTEGRAL
 
-# v0.7 — Expediente AM-HOM-001
-# BIGFOOT (SASQUATCH)
+# AM-HOM-001 — BIGFOOT / SASQUATCH
+## Paquete final de contenido para Canva v2.44
 
-> **Estado:** primera versión editorial del expediente.  
-> **Fuente:** manuscrito base del Atlas Criptozoológico.  
-> **Criterio:** se conserva el contenido y enfoque del material fuente; no se incorporan datos externos en esta versión.
+**Fuente de verdad:** cadena documental v2.38 → v2.39 → v2.40 → v2.42 → v2.43 → v2.44.
 
----
-
-## FICHA DEL EXPEDIENTE
-
-| Campo | Información |
-|---|---|
-| Código | **AM-HOM-001** |
-| Nombre | **Bigfoot (Sasquatch)** |
-| Categoría | Humanoides |
-| Región | Norteamérica |
-| Hábitat asociado | Bosques templados y montañosos; zonas remotas |
-| Altura reportada | 1.8–2.4 m |
-| Peso estimado | 90–200 kg |
-| Evidencia | Testimonios, fotografías, videos, huellas y registros acústicos |
-| Estado | No confirmado científicamente |
-| Clasificación IIIC | **Nivel III — Evidencia documental** |
-
-### ESPACIO VISUAL
-
-**[ILUSTRACIÓN PRINCIPAL — BIGFOOT EN SU HÁBITAT]**
-
-**[MAPA DE DISTRIBUCIÓN — NORTEAMÉRICA]**
+**Estado:** Cerrado en fase documental selectiva, con reservas.
+**IIIC:** Nivel III provisional — múltiples testimonios consistentes, con reservas.
+**R1:** Cerrada.
+**R1.1 Patterson–Gimlin:** Cerrada con reservas.
+**R1.1 corpus:** Cerrada con reservas.
+**R1.2:** No necesaria actualmente.
+**Confirmación zoológica:** No demostrada.
+**Evidencia física:** No concluyente.
+**Evidencia audiovisual:** Disputada.
+**Independencia total del corpus:** No demostrada en su totalidad.
+**ADN confirmatorio:** No establecido.
 
 ---
 
-# 1. RESUMEN EJECUTIVO
+## Página 1 — Portada / identidad
 
-Bigfoot, también conocido como Sasquatch, es una de las criaturas más conocidas de la criptozoología moderna. Se describe como un primate de gran tamaño, bípedo, cubierto de pelo oscuro y de comportamiento reservado.
+### Título
+BIGFOOT
 
-Los informes se concentran principalmente en los bosques del noroeste de Estados Unidos y Canadá, aunque existen reportes en otras regiones de Norteamérica.
+### Denominación secundaria
+SASQUATCH
 
-A pesar de décadas de investigaciones, no existe evidencia científica concluyente que confirme su existencia.
+### Código
+AM-HOM-001
 
-La evidencia disponible consiste principalmente en testimonios, fotografías, videos, huellas y registros acústicos.
+### Clasificación
+HOMÍNIDO / PRIMATE CRIPTOZOOLÓGICO
 
-### PUNTOS CLAVE
+### Región
+AMÉRICA DEL NORTE
 
-- Criatura humanoide de gran tamaño.
-- Reportes concentrados en Norteamérica.
-- Asociada a bosques remotos y montañosos.
-- Numerosos testimonios independientes.
-- Evidencia física no concluyente.
-- Clasificación IIIC: **Nivel III**.
+### Estado
+CERRADO EN FASE DOCUMENTAL SELECTIVA · CON RESERVAS
 
----
+### Sello IIIC
+NIVEL III PROVISIONAL
 
-# 2. DISTRIBUCIÓN GEOGRÁFICA
+Múltiples testimonios consistentes, con reservas.
 
-### ÁREA PRINCIPAL
+### Nota de apertura
+Uno de los expedientes criptozoológicos más extensos de Norteamérica. Su importancia documental deriva de la continuidad de los relatos, la diversidad de fuentes y la persistencia de determinadas descripciones, pero la existencia zoológica de una especie desconocida no ha sido demostrada.
 
-Los informes se concentran en la costa del Pacífico de Norteamérica, especialmente en:
-
-- Washington.
-- Oregón.
-- Columbia Británica.
-- Norte de California.
-- Algunas zonas de las Montañas Rocosas.
-
-### HÁBITAT PREFERIDO
-
-Los avistamientos suelen ocurrir en:
-
-- Bosques densos.
-- Zonas montañosas.
-- Regiones poco pobladas.
-- Áreas cercanas a ríos y lagos.
-- Parques nacionales.
-
-### ESPACIO PARA MAPA
-
-**[MAPA — ZONA DE REPORTES Y REFERENCIAS GEOGRÁFICAS]**
-
-> La presencia de un marcador representa reportes o referencias asociadas al expediente; no constituye una distribución zoológica confirmada.
+### Advertencia
+**Corpus testimonial amplio ≠ confirmación zoológica.**
 
 ---
 
-# 3. DESCRIPCIÓN FÍSICA
+## Página 2 — Ficha técnica
 
-Los informes de Bigfoot presentan características relativamente consistentes:
+### Identificación
+- Código: AM-HOM-001
+- Nombre: Bigfoot
+- Sinónimo principal: Sasquatch
+- Otros nombres: Big Man / Hairy Man / denominaciones regionales
+- Continente: América
+- Región: Norteamérica
+- Zona histórica destacada: Pacífico Noroeste
+- Categoría: Homínido / primate criptozoológico
 
-### ALTURA
+### Hábitat atribuido
+Bosques templados, zonas montañosas y regiones de baja densidad humana.
 
-Entre **1.8 y 2.4 metros**.
+### Características atribuidas
+- gran estatura;
+- complexión robusta;
+- abundante pilosidad;
+- locomoción bípeda;
+- pies de gran tamaño;
+- vocalizaciones atribuidas.
 
-### PESO
+Estas son características reportadas, no una descripción zoológica confirmada.
 
-Entre **90 y 200 kg**.
+### Estado documental
+Cerrado en fase documental selectiva, con reservas.
 
-### CARACTERÍSTICAS
-
-- Cuerpo robusto.
-- Brazos largos.
-- Piernas musculosas.
-- Cabeza grande.
-- Cuello corto.
-- Rostro simiesco.
-- Pelaje oscuro, generalmente marrón o negro.
-
-### HUELLAS
-
-Una de las evidencias más conocidas son las huellas atribuidas a la criatura.
-
-Características reportadas:
-
-- Longitud: 30–45 cm.
-- Cinco dedos visibles.
-- Talón ancho.
-- Forma similar a la huella humana.
-
-**[ILUSTRACIÓN COMPARATIVA — HUELLA ATRIBUIDA / ESCALA HUMANA]**
-
----
-
-# 4. COMPORTAMIENTO
-
-Según los testimonios, Bigfoot sería principalmente nocturno y evitaría el contacto humano.
-
-### COMPORTAMIENTOS REPORTADOS
-
-- Caminar erguido.
-- Moverse rápidamente entre árboles.
-- Emitir sonidos similares a gritos o aullidos.
-- Golpear árboles.
-- Arrojar piedras.
-- Construir estructuras con ramas.
-
-### ALIMENTACIÓN
-
-Se cree que podría ser omnívoro.
-
-Alimentos potenciales mencionados en los reportes:
-
-- Frutas.
-- Vegetales.
-- Peces.
-- Pequeños mamíferos.
-- Insectos.
-.
-**[ILUSTRACIÓN — COMPORTAMIENTO / HÁBITAT]**
+### Campos de evaluación
+- Independencia del corpus
+- IIIC
+- Calidad de evidencias
+- Vacíos críticos
+- Resolución documental
 
 ---
 
-# 5. HISTORIA DEL CASO
+## Página 3 — Resumen ejecutivo
 
-## TRADICIONES INDÍGENAS
+### ¿Qué está documentado?
+Bigfoot posee un corpus histórico y moderno excepcionalmente amplio. Incluye tradiciones indígenas, relatos históricos, testimonios contemporáneos, huellas, moldes, fotografías, vídeos, grabaciones sonoras y muestras biológicas atribuidas.
 
-Diversas culturas indígenas de Norteamérica poseen historias sobre criaturas similares a Bigfoot.
+### ¿Qué permanece sin resolver?
+No existe un espécimen zoológico confirmado que permita establecer la existencia de una especie desconocida.
 
-Entre los nombres utilizados se encuentran:
+Los análisis genéticos mencionados en el expediente identificaron las muestras estudiadas como especies conocidas.
 
-- Sasquatch.
-- Bukwus.
-- Dzunukwa.
-- Oma.
+### Fortalezas
+- continuidad histórica;
+- gran volumen de reportes;
+- diversidad de tipos de fuente;
+- persistencia geográfica del fenómeno.
 
-Estas historias forman parte de tradiciones orales anteriores a los relatos modernos.
+### Reservas
+- independencia del corpus no demostrada en su totalidad;
+- evidencia física heterogénea;
+- falsificaciones documentadas;
+- evidencia audiovisual disputada;
+- ausencia de confirmación biológica.
 
-## PRIMEROS REGISTROS EUROPEOS
-
-Durante el siglo XIX comenzaron a aparecer informes de exploradores y colonos que describían criaturas humanoides en los bosques.
-
-## EL SIGLO XX
-
-La leyenda moderna de Bigfoot comenzó a consolidarse durante la década de 1950.
-
-En **1958**, un grupo de trabajadores de construcción en Bluff Creek, California, descubrió una serie de grandes huellas.
-
-El periodista **Andrew Genzoli** publicó un artículo sobre el descubrimiento, y el caso recibió atención nacional.
-
-Poco después, el investigador **Ray Wallace** afirmó haber encontrado más huellas.
-
-Tras su muerte en 2002, su familia reveló que algunas de las huellas habían sido falsificadas.
+### Conclusión ejecutiva
+Bigfoot constituye un expediente documentalmente relevante, pero permanece sin confirmación zoológica.
 
 ---
 
-# 6. CRONOLOGÍA
+## Página 4 — Distribución geográfica
 
-| Año | Evento |
-|---|---|
-| **1958** | Descubrimiento de las huellas de Bluff Creek. |
-| **1967** | Filmación de Patterson-Gimlin. |
-| **1970s** | Aumento de investigaciones y expediciones. |
-| **1990s** | Aparición de nuevos videos y fotografías. |
-| **2000s** | Uso de tecnología de ADN y análisis forense. |
-| **2010s** | Popularización del fenómeno en redes sociales. |
+### Núcleo norteamericano
+**Pacífico Noroeste:** Washington, Oregón, California septentrional y Columbia Británica.
 
-**[LÍNEA DE TIEMPO ILUSTRADA]**
+### Otras regiones
+El fenómeno se extiende por distintas áreas de Estados Unidos y Canadá.
 
----
+### Mapa principal
+Mapa de concentración histórica de reportes, diferenciando:
+- tradición histórica;
+- reportes modernos;
+- zonas de alta concentración;
+- casos aislados.
 
-# 7. EVIDENCIAS
+### Texto de contexto
+La concentración geográfica de testimonios es relevante para el análisis documental, pero no constituye por sí misma evidencia de una población biológica.
 
-## HUELLAS
-
-Las huellas son la evidencia física más común.
-
-Algunas han sido analizadas por expertos en biomecánica.
-
-Sin embargo, muchas han resultado ser falsificaciones.
-
-## FOTOGRAFÍAS
-
-Existen cientos de fotografías atribuidas a Bigfoot.
-
-La mayoría no permite identificar claramente la criatura.
-
-## VIDEO DE PATTERSON-GIMLIN
-
-El video más famoso fue filmado en 1967 por **Roger Patterson y Bob Gimlin**.
-
-Muestra una figura humanoide caminando por un área boscosa.
-
-Hasta hoy existe debate sobre si se trata de una criatura real o de una persona disfrazada.
-
-**[ESPACIO PRINCIPAL — FOTOGRAMA / REFERENCIA VISUAL DEL CASO]**
-
-## REGISTROS ACÚSTICOS
-
-Se han grabado sonidos atribuidos a Bigfoot, incluyendo:
-
-- Gritos.
-- Golpes.
-- Aullidos.
-
-Algunos investigadores consideran que ciertos sonidos podrían tener origen humano o animal conocido.
+### Registro histórico destacado
+**Bluff Creek, California — 1958:** las huellas encontradas allí contribuyeron a popularizar el nombre “Bigfoot”.
 
 ---
 
-# 8. CASOS FAMOSOS
+## Página 5 — Descripción física
 
-### BLUFF CREEK — 1958
+### El perfil atribuido
 
-Descubrimiento de las primeras huellas que atrajeron atención nacional.
+**Cabeza:** descripción humanoide.
 
-### PATTERSON-GIMLIN — 1967
+**Extremidades:** brazos largos y complexión robusta según numerosos testimonios.
 
-Filmación considerada una de las evidencias más importantes del fenómeno.
+**Pelaje:** generalmente descrito como abundante y oscuro, aunque existe variabilidad.
 
-### CASO BOSBURG — 1969
+**Locomoción:** marcha bípeda.
 
-Serie de huellas encontradas en Washington.
+### Huellas
+Características frecuentemente reportadas:
+- cinco dedos;
+- talón ancho;
+- arco plantar poco marcado;
+- longitudes aproximadas de 35–45 cm en numerosos reportes;
+- zancadas que en algunos relatos alcanzarían aproximadamente 2 m.
 
-### CASO SKOOKUM — 2000
+### Vocalizaciones
+- aullidos;
+- silbidos;
+- gruñidos;
+- golpes sobre troncos (*wood knocks*).
 
-Supuesto molde de una huella corporal encontrado en Washington.
-
-**[ESPACIO — CUADRO COMPARATIVO DE CASOS]**
-
----
-
-# 9. HIPÓTESIS
-
-### PRIMATE DESCONOCIDO
-
-La hipótesis sostiene que Bigfoot podría ser una especie de primate no catalogada.
-
-### GIGANTOPITHECUS
-
-Algunos investigadores han propuesto que podría tratarse de descendientes de Gigantopithecus, un primate gigante que vivió en Asia.
-
-### OSOS MAL IDENTIFICADOS
-
-Algunos avistamientos podrían corresponder a osos caminando sobre dos patas.
-
-### FRAUDE
-
-Numerosos casos han sido demostrados como falsificaciones.
-
-### ERROR DE IDENTIFICACIÓN
-
-Muchos testimonios podrían explicarse por animales conocidos vistos en condiciones difíciles.
+### Advertencia
+Todos los rasgos anteriores son características atribuidas por testimonios y materiales del expediente. No constituyen una descripción zoológica confirmada.
 
 ---
 
-# 10. BIGFOOT EN LA CULTURA POPULAR
+## Página 6 — Hábitat y comportamiento
 
-Bigfoot se ha convertido en un ícono de la cultura popular.
+### Hábitat atribuido
+Los reportes se concentran principalmente en:
+- bosques templados;
+- bosques de coníferas;
+- zonas montañosas;
+- regiones húmedas;
+- áreas con baja densidad humana.
 
-### APARICIONES
+### Comportamiento reportado
+- observación desde la vegetación;
+- alejamiento ante presencia humana;
+- desplazamiento utilizando cobertura natural;
+- cruces rápidos de caminos;
+- vocalizaciones nocturnas.
 
-- Películas.
-- Series de televisión.
-- Videojuegos.
-- Documentales.
-- Libros.
-- Productos comerciales.
+### Alimentación
+**HIPÓTESIS:** posible alimentación omnívora oportunista con frutos, bayas, raíces, hongos, insectos, peces, pequeños mamíferos y carroña ocasional.
 
-### TURISMO
-
-Algunas regiones de Estados Unidos y Canadá utilizan la figura de Bigfoot como atractivo turístico.
-
-### COMUNIDADES
-
-Existen numerosas organizaciones dedicadas a la investigación del fenómeno.
-
-**[GALERÍA — REPRESENTACIONES CULTURALES]**
-
----
-
-# 11. EVALUACIÓN IIIC
-
-## NIVEL III — EVIDENCIA DOCUMENTAL
-
-### JUSTIFICACIÓN
-
-El caso cuenta con una gran cantidad de documentación:
-
-- Fotografías.
-- Videos.
-- Testimonios.
-- Huellas.
-- Registros históricos.
-
-Sin embargo, ninguna evidencia ha sido verificada científicamente como perteneciente a una especie desconocida.
-
-### ESTADO
-
-**NO CONFIRMADO CIENTÍFICAMENTE**
-
-### LECTURA DE LA CLASIFICACIÓN
-
-El Nivel III indica que existe documentación significativa asociada al fenómeno, pero la evidencia disponible no permite confirmar de manera definitiva la existencia de una especie desconocida.
-
-**[SELLO VISUAL — IIIC NIVEL III]**
+No existe evidencia verificable que establezca la dieta de una especie Bigfoot.
 
 ---
 
-# 12. DICTAMEN DEL IIIC
+## Página 7 — Historia y cronología
 
-**Bigfoot continúa siendo uno de los casos más investigados de la criptozoología moderna.**
+### Antes del siglo XIX
+Tradiciones indígenas sobre seres asociados con los bosques.
 
-La gran cantidad de testimonios y documentación mantiene el interés científico y cultural del fenómeno, pero la ausencia de evidencia biológica verificable impide confirmar su existencia.
+### 1811 — Alberta, Canadá
+Registro atribuido a David Thompson de grandes huellas en la nieve.
 
-### CONCLUSIÓN
+### 1924 — Ape Canyon, Washington
+Mineros reportan un supuesto ataque de criaturas durante la noche.
 
-> **Caso abierto. Evidencia insuficiente para confirmar la existencia de una especie desconocida.**
+**Estado:** relato histórico controvertido; sin prueba concluyente.
 
-### FICHA DE CIERRE
+### 1958 — Bluff Creek, California
+Huellas que contribuyen a popularizar el nombre Bigfoot.
 
-| Indicador | Evaluación |
-|---|---|
-| Documentación | Alta |
-| Evidencia física verificable | Insuficiente |
-| Confirmación científica | No confirmada |
-| Estado IIIC | **Nivel III** |
-| Estado del caso | **Abierto** |
+### 1967 — Bluff Creek, California
+Patterson y Gimlin filman el metraje posteriormente conocido como **Patterson–Gimlin**.
 
-**[ILUSTRACIÓN DE CIERRE / TRANSICIÓN AL SIGUIENTE EXPEDIENTE]**
+### 1970–1990
+Incremento de reportes, expediciones y organizaciones de investigación.
 
----
-
-# PLAN VISUAL DEL EXPEDIENTE
-
-1. Ilustración principal de Bigfoot.
-2. Mapa de distribución de Norteamérica.
-3. Comparativa de huella.
-4. Ilustración de comportamiento/hábitat.
-5. Línea de tiempo.
-6. Bloque visual Patterson-Gimlin.
-7. Cuadro comparativo de casos famosos.
-8. Galería de cultura popular.
-9. Sello IIIC Nivel III.
-10. Ilustración de cierre.
+### Siglo XXI
+Continúan los reportes y proyectos de investigación ciudadana.
 
 ---
 
-# BITÁCORA EDITORIAL — v0.7
+## Página 8 — Evidencias y casos destacados
 
-**Estado:** primera versión completa del expediente.
+### A · Huellas
+**Estado:** evidencia física indirecta.
 
-### Decisiones
+Numerosas impresiones y moldes presentan detalles anatómicos de interés; otras huellas han sido demostradas como falsificaciones.
 
-- Se adopta Bigfoot como plantilla maestra de expediente.
-- Se conserva el código **AM-HOM-001**.
-- Se mantiene la clasificación IIIC Nivel III del manuscrito base.
-- Se separan evidencias, hipótesis, cultura popular y dictamen.
-- Se incorporan espacios visuales para que el expediente pueda convertirse posteriormente en una doble página o secuencia de páginas ilustradas.
+**Valor:** relevante pero insuficiente.
 
-### Pendientes de revisión
+### B · Moldes y rastros
+Centenares de moldes desde la década de 1960.
 
-- Verificar la redacción final de nombres propios y topónimos durante la fase de revisión documental.
-- Diseñar ilustraciones y mapas.
-- Definir iconografía definitiva del Nivel III.
-- Revisar y documentar individualmente las fuentes de cada evidencia cuando se pase a la fase de investigación/validación externa.
+**Autenticidad:** discutida.
 
-### Próxima versión
+### C · Patterson–Gimlin · 1967
+**Estado:** evidencia audiovisual disputada.
 
-**v0.8 — Expediente AM-HOM-002: Yeti americano (Alma).**
+El metraje muestra una figura humanoide caminando en Bluff Creek. Las interpretaciones permanecen divididas y no existe consenso científico.
+
+### D · Sierra Sounds
+Grabaciones de vocalizaciones atribuidas a Bigfoot.
+
+**Origen:** no identificado.
+**Interpretación:** disputada.
+
+### E · ADN y restos biológicos
+Muestras atribuidas analizadas genéticamente.
+
+**Resultado:** especies conocidas.
+**ADN confirmatorio de especie desconocida:** no establecido.
+
+### F · Testimonios
+Corpus muy amplio.
+
+**Valor:** documental e histórico.
+**Limitación:** un testimonio individual no constituye prueba zoológica.
+
+---
+
+## Página 9 — Hipótesis y análisis crítico
+
+### Hipótesis 1 — Gran primate desconocido
+**A favor:** podría explicar algunos relatos y determinadas huellas.
+**En contra:** ausencia de restos biológicos y de evidencia zoológica concluyente.
+
+### Hipótesis 2 — Linaje antiguo superviviente
+Posible relación hipotética con homínidos o grandes simios extintos.
+
+**Estado:** especulativa.
+
+### Hipótesis 3 — Errores de identificación
+Osos, personas, sombras y otros fenómenos pueden explicar determinados encuentros.
+
+**Estado:** explicación plausible para numerosos casos individuales.
+
+### Hipótesis 4 — Fraude
+Se han demostrado falsificaciones de huellas, fotografías y relatos.
+
+Demostrar fraude en algunos casos no demuestra que todo el corpus sea falso.
+
+### Hipótesis 5 — Construcción cultural
+Bigfoot puede analizarse también como figura simbólica vinculada con la naturaleza y el imaginario de los bosques norteamericanos.
+
+### Regla editorial
+**Un caso inexplicado no equivale automáticamente a evidencia de una criatura desconocida.**
+
+---
+
+## Página 10 — Resolución documental / IIIC
+
+### Estado del expediente
+**CIERRE DOCUMENTAL**
+
+Fase: documental selectiva.
+Resultado: cerrado con reservas.
+
+### R1
+**CERRADA**
+
+### R1.1 — Patterson–Gimlin
+**CERRADA CON RESERVAS**
+
+Tratamiento: evidencia audiovisual disputada; no utilizar como confirmación zoológica.
+
+### R1.1 — Corpus
+**CERRADA CON RESERVAS**
+
+Regla: el número de publicaciones o reportes no debe confundirse con el número de testimonios independientes.
+
+### R1.2
+**NO NECESARIA ACTUALMENTE**
+
+Solo se reabre si aparece un vacío crítico nuevo.
+
+### IIIC
+**NIVEL III PROVISIONAL — MÚLTIPLES TESTIMONIOS CONSISTENTES, CON RESERVAS.**
+
+### Evidencia biológica
+🔴 No confirmatoria.
+
+### Evidencia física
+🟠 No concluyente.
+
+### Evidencia audiovisual
+🟠 Disputada.
+
+### Independencia del corpus
+🟠 No demostrada en su totalidad.
+
+### Vacíos críticos
+- espécimen verificable ausente;
+- evidencia genética confirmatoria ausente;
+- cadena de custodia variable;
+- independencia total del corpus no establecida;
+- contaminación cultural y mediática;
+- falsificaciones documentadas.
+
+### Dictamen editorial
+**AM-HOM-001 — Bigfoot permanece documentalmente cerrado con reservas. El expediente justifica la conservación y análisis del corpus histórico, pero no demuestra la existencia zoológica de una especie desconocida.**
+
+---
+
+## Reglas de representación para Canva
+
+### DOCUMENTADO
+Lo que una fuente permite afirmar.
+
+### ATRIBUIDO / DISPUTADO
+Material o testimonio existente cuya interpretación o autenticidad permanece abierta.
+
+### NO DEMOSTRADO
+Lo que no puede afirmarse como hecho zoológico.
+
+### HIPÓTESIS
+Explicaciones posibles, nunca hechos.
+
+### Regla editorial transversal
+**La cantidad de publicaciones no equivale a la cantidad de testimonios independientes.**
+
+**Un caso inexplicado no equivale automáticamente a evidencia de una criatura desconocida.**
 
 ---
 
@@ -2234,97 +2201,202 @@ No existe actualmente un espécimen, muestra genética o evidencia física diagn
 
 ## AM-LAC-003 — FUENTE CANÓNICA INTEGRAL
 
-# v1.6 — AM-LAC-003 — NAHUELITO
+# v2.17 — Cierre R1 AM-LAC-003: NAHUELITO
 
-## Estado
-Expediente documental — cerrado para revisión editorial. **No pasar a Canva todavía.**
+**Atlas Criptozoológico — Volumen I: América**  
+**Tipo:** resolución documental de auditoría  
+**Expediente:** AM-LAC-003 — Nahuelito  
+**Precedentes:** v2.13, v2.14, v2.15, v2.16  
+**Estado:** R1 CERRADA CON RESERVAS  
+**Canva:** BLOQUEADO HASTA APROBACIÓN DEL EXPEDIENTE DEFINITIVO
 
-## Resumen
-Nahuelito es el nombre popular de una supuesta criatura acuática asociada al lago Nahuel Huapi, en la Patagonia argentina. Los relatos describen una figura alargada, serpentina o con una o varias jorobas; algunas versiones modernas la representan con cuello largo semejante a un plesiosaurio.
+---
 
-## Ficha técnica
-- Código: AM-LAC-003
-- Categoría: Criaturas lacustres
-- Continente: América
-- País: Argentina
-- Región: Patagonia; Río Negro y Neuquén
-- Hábitat atribuido: Lago Nahuel Huapi y sus costas
-- Estado: No confirmado
-- Evaluación IIIC propuesta: **Nivel III — Múltiples testimonios consistentes**
+## 1. Objetivo
 
-## Historia y cronología
-La tradición cultural asociada al lago es anterior al nombre moderno. El expediente separa esa tradición de la hipótesis zoológica.
+Cerrar la primera ronda de revisión documental de Nahuelito después de reconstruir la cadena de fuentes, separar testimonios independientes de fuentes derivadas y corregir atribuciones geográficas que no estaban suficientemente sustentadas.
 
-- 1897 — Clemente Onelli comienza a recibir informes sobre una criatura extraña en lagos patagónicos.
-- 1910 — George Garret reporta haber observado una criatura en el lago Nahuel Huapi.
-- 1922 — El relato de Garret se hace público.
-- 1922 — Martin Sheffield comunica a Onelli un supuesto avistamiento y grandes huellas; se organiza una expedición.
-- Décadas posteriores — Persisten testimonios y fotografías atribuidas.
-- 1988 — Circula una fotografía atribuida a Nahuelito, de procedencia controvertida.
-- 2020 — Se difunde un video atribuido al fenómeno.
-- 2022 — Otro video vuelve a viralizar la leyenda.
-- Siglo XXI — Continúan reportes sin confirmación zoológica.
+La R1 no intenta demostrar la existencia zoológica de Nahuelito. Su objetivo es determinar qué puede afirmarse documentalmente y qué debe permanecer como hipótesis, tradición o información pendiente.
 
-## Evidencias
-### Testimonios
-Son la base principal del expediente, con calidad desigual y descripciones variables.
+---
 
-### Fotografía y video
-Existen materiales atribuidos a Nahuelito, pero ninguno demuestra de forma concluyente una especie desconocida.
+## 2. Resolución general
 
-### Rastros
-El episodio de 1922 incluye un supuesto rastro de grandes huellas, sin moldes diagnósticos conservados que confirmen una especie desconocida.
+**Nahuelito permanece dentro del Volumen I.** Su pertenencia geográfica al ámbito americano y su asociación histórica con el lago Nahuel Huapi están suficientemente establecidas para conservar el expediente.
 
-### ADN y restos
-No existe espécimen ni muestra genética aceptada que confirme Nahuelito como especie desconocida.
+Sin embargo, el expediente debe presentarse como **caso criptozoológico documentado por testimonios, publicaciones y tradición moderna**, no como especie confirmada ni como superviviente probado de un taxón prehistórico.
 
-## Casos destacados
-- George Garret — 1910: avistamiento desde el lago; la parte visible fue estimada entre 5 y 7 m.
-- Martin Sheffield — 1922: supuesto animal desconocido y grandes huellas; desencadenó la expedición de Onelli.
-- Expedición de Clemente Onelli — 1922: búsqueda organizada sin evidencia concluyente.
-- Fotografía atribuida — 1988: imagen difundida, autenticidad controvertida.
-- Video de pescadores — 2020: identificación no concluyente.
-- Video viral — 2022: difusión mediática sin confirmación científica.
+---
 
-## Hipótesis
-1. Animal acuático desconocido.
-2. Plesiosaurio superviviente — hipótesis popular y especulativa, sin evidencia zoológica.
-3. Ictiosaurio u otro linaje extinto — igualmente especulativo.
-4. Fauna conocida, troncos u objetos y fenómenos de superficie.
-5. Errores de percepción y efectos de distancia, clima e iluminación.
-6. Construcción y continuidad folclórica.
+## 3. Cadena documental reconstruida
 
-## Evaluación IIIC
-- Distribución: concentrada en el lago Nahuel Huapi.
-- Testimonios: numerosos, históricos y modernos, de calidad desigual.
-- Consistencia: moderada.
-- Evidencia física: ninguna evidencia diagnóstica.
-- Evidencia biológica: sin ADN ni espécimen confirmado.
-- Tradición histórica: importante y anterior al nombre moderno.
-- Investigación: incluye búsquedas organizadas y posteriores investigaciones independientes.
-- **Nivel III — Múltiples testimonios consistentes.**
+### A. George Garrett / Garrett
 
-## Dictamen
-Caso lacustre de alto interés histórico, documental y folclórico; **sin confirmación zoológica**. La hipótesis de plesiosaurio se conserva como especulación y las explicaciones alternativas permanecen abiertas.
+Las revisiones realizadas identificaron una referencia bibliográfica a una publicación del *Toronto Globe* de 1922 que atribuye a George Garrett un avistamiento ocurrido aproximadamente en 1910 en el entorno del Nahuel Huapi.
 
-## Control editorial
-- Se separa la tradición cultural de la hipótesis zoológica.
-- Los relatos de 1910 y 1922 se presentan como testimonios/eventos históricos, no como pruebas.
-- La expedición de Onelli se incorpora sin atribuirle resultados que no produjo.
-- Fotografías y videos son evidencia visual atribuida y no concluyente.
-- Las imágenes de terceros deberán revisarse por derechos de autor antes de Canva.
-- **No pasar a Canva todavía.**
+**Estado:** documentalmente utilizable como referencia histórica secundaria/bibliográfica; el ejemplar original del periódico no quedó recuperado directamente durante esta ronda.
 
-## Espacios visuales previstos
-- Ilustración principal.
-- Mapa del lago Nahuel Huapi.
-- Ilustración anatómica de variantes testimoniales.
-- Línea de tiempo.
-- Dossier de evidencias.
-- Matriz de hipótesis.
-- Lámina de cultura popular.
-- Comparativa de escalas.
-- Sello IIIC y página de cierre.
+**Regla editorial:** no escribir “Garrett fue el primer avistamiento documentado de Nahuelito”. La formulación debe indicar que el relato fue publicado posteriormente y atribuido al testigo.
+
+### B. Martín Sheffield
+
+La carta de Sheffield a Clemente Onelli, fechada el 19 de enero de 1922, constituye un documento histórico relevante, pero **no debe presentarse como un avistamiento en el Nahuel Huapi**.
+
+La investigación revisada ubica el episodio relacionado con Sheffield en la región de Epuyén, Chubut.
+
+**Estado:** fuente documental independiente del relato de Garrett.
+
+### C. Clemente Onelli y expedición de 1922
+
+Onelli recibió información sobre el caso y promovió la expedición de 1922. La expedición estuvo vinculada al reporte de Sheffield y no debe utilizarse para crear un nuevo testimonio independiente.
+
+La expedición no produjo un espécimen ni evidencia zoológica concluyente.
+
+### D. Prensa y publicaciones posteriores
+
+*La Nación*, *Caras y Caretas* y otras publicaciones históricas son relevantes para reconstruir la circulación del caso, pero no deben contarse como nuevos avistamientos si reproducen o derivan de testimonios anteriores.
+
+---
+
+## 4. Independencia de testimonios
+
+La R1 establece la siguiente regla de conteo:
+
+> **Una cadena editorial derivada no equivale a múltiples testimonios independientes.**
+
+Por tanto, el expediente deberá distinguir explícitamente entre:
+
+- testigo original;
+- documento que registra el testimonio;
+- publicación que reproduce el documento;
+- investigación posterior que interpreta el caso.
+
+Esto evita inflar artificialmente la cantidad de evidencia.
+
+---
+
+## 5. Fotografías y material visual
+
+Las fotografías atribuidas a Nahuelito permanecen sujetas a verificación individual de procedencia.
+
+No se incorporará ninguna imagen al expediente definitivo como “evidencia” sin:
+
+1. identificar su origen;
+2. identificar fecha y autor cuando sea posible;
+3. establecer cadena de publicación;
+4. separar la fotografía de las interpretaciones posteriores.
+
+**Estado:** PENDIENTE DE RASTREO ESPECÍFICO.
+
+---
+
+## 6. Hipótesis del plesiosaurio
+
+La identificación de Nahuelito como un plesiosaurio superviviente debe mantenerse exclusivamente como **hipótesis histórica/popular**.
+
+No existe, dentro del material revisado para esta R1, evidencia zoológica suficiente para presentarla como explicación confirmada.
+
+En el manuscrito definitivo deberá utilizarse lenguaje como:
+
+> “Una de las hipótesis populares ha relacionado los avistamientos con un plesiosaurio superviviente; esta identificación no ha sido demostrada.”
+
+---
+
+## 7. Sistema IIIC
+
+### Clasificación provisional de cierre R1
+
+**AM-LAC-003 — Nivel IV: Testimonios consistentes**
+
+**Estado:** PROVISIONAL / SUJETO A AUDITORÍA IIIC FINAL.
+
+La clasificación se justifica por la existencia de una tradición de reportes y una cadena documental histórica, pero no implica confirmación zoológica.
+
+No se eleva a Nivel III únicamente por la existencia de documentos históricos: el documento demuestra que un reporte fue registrado, no que la criatura descrita exista.
+
+---
+
+## 8. Afirmaciones que deben eliminarse o reformularse
+
+### No utilizar
+
+- “Nahuelito es un plesiosaurio.”
+- “Garrett fue el primer avistamiento documentado de Nahuelito.”
+- “Sheffield vio a Nahuelito en el lago Nahuel Huapi.”
+- “La expedición de Onelli confirmó la existencia del animal.”
+- “Las publicaciones de 1922 constituyen múltiples testimonios independientes.”
+
+### Utilizar
+
+- “Nahuelito es una tradición criptozoológica asociada al lago Nahuel Huapi.”
+- “Una publicación de 1922 atribuyó a George Garrett un avistamiento ocurrido aproximadamente en 1910.”
+- “El caso de Sheffield corresponde a otra cadena documental, asociada a la región de Epuyén.”
+- “La expedición de 1922 no produjo evidencia zoológica concluyente.”
+- “La hipótesis del plesiosaurio pertenece al ámbito interpretativo/popular.”
+
+---
+
+## 9. Vacíos que permanecen abiertos
+
+| Vacío | Estado | Impacto |
+|---|---|---|
+| Ejemplar original del *Toronto Globe* | 🟠 Pendiente | Medio |
+| Procedencia individual de fotografías | 🟠 Pendiente | Alto para sección visual |
+| Reconstrucción completa de todas las fuentes de prensa | 🟠 Pendiente | Medio |
+| Evaluación final IIIC | 🟠 Pendiente | Alto |
+| Bibliografía maestra normalizada | 🟠 Pendiente | Medio |
+
+Estos vacíos **no justifican inventar información** y deben permanecer visibles hasta resolverse.
+
+---
+
+## 10. Estado editorial
+
+**R1 de Nahuelito: CERRADA.**
+
+Esto significa que ya existe una resolución documental suficientemente clara para continuar con la auditoría del siguiente expediente, pero **no significa que Nahuelito esté aprobado para Canva**.
+
+Antes de Canva deberán completarse la bibliografía maestra, la revisión IIIC definitiva y la procedencia de los elementos visuales que finalmente se seleccionen.
+
+---
+
+## 11. Veredicto
+
+### 🟢 CONSERVAR EN EL ATLAS
+
+**AM-LAC-003 — Nahuelito** permanece como expediente oficial del Volumen I.
+
+### 🟠 CLASIFICACIÓN
+
+**Nivel IV — Testimonios consistentes (provisional).**
+
+### 🔴 NO AUTORIZAR
+
+No presentar como hecho:
+
+- existencia zoológica;
+- identidad como plesiosaurio;
+- equivalencia entre Sheffield y Nahuel Huapi;
+- multiplicación artificial de testimonios por repetición periodística.
+
+### 🔒 CANVA
+
+**BLOQUEADO.**
+
+---
+
+## 12. Regla que queda incorporada al Atlas
+
+> **Documentar un reporte no equivale a demostrar el fenómeno reportado.**
+
+La función del expediente es conservar la historia documental con precisión, separar evidencia de interpretación y permitir que el lector conozca exactamente qué está documentado y qué permanece sin demostrar.
+
+---
+
+**Versión:** v2.17  
+**Expediente:** AM-LAC-003  
+**R1:** CERRADA CON RESERVAS  
+**Canva:** BLOQUEADO
 
 ---
 
@@ -2508,734 +2580,450 @@ La asociación con el Silver Bridge se conserva como parte esencial de la histor
 
 ## AM-VOL-002 — FUENTE CANÓNICA INTEGRAL
 
-# v1.8 — AM-VOL-002 — THUNDERBIRD
+# v2.24 — R1.6 AM-VOL-002: THUNDERBIRD
+## Búsqueda bibliográfica dirigida 1977–1993
 
-## Estado
-Expediente documental — cerrado para revisión editorial. **No pasar a Canva todavía.**
+**Objetivo:** determinar si existe un uso fechado anterior a 1994 de “Thunderbird” aplicado específicamente al caso de Lawndale y separar la etiqueta investigativa de las palabras originales de los testigos.
 
-## Nota editorial
-El manuscrito base del Atlas coloca Thunderbird como el segundo expediente de la categoría Criaturas voladoras. El expediente separa: (1) tradición cultural indígena; (2) relatos modernos sobre aves extraordinariamente grandes; y (3) hipótesis criptozoológicas.
+**Estado:** R1.6 cerrada con reservas.
+**Canva:** BLOQUEADO.
 
-Las fuentes del Smithsonian documentan Thunderbird como figura importante de las tradiciones y artes de pueblos indígenas de Norteamérica. Estas tradiciones no se utilizan como prueba zoológica.
+---
 
-## Resumen ejecutivo
-Thunderbird es un concepto legendario presente en diversas tradiciones indígenas de Norteamérica. En fuentes históricas aparece asociado a tormentas, poder sobrenatural y relatos de pueblos del noroeste y otras regiones.
+## 1. Pregunta de auditoría
 
-La versión criptozoológica moderna describe supuestas aves de tamaño extraordinario. Entre los casos más citados se encuentran un relato periodístico de Arizona de 1890 y los reportes de Lawndale, Illinois, de 1977. La documentación de estos casos es mucho más débil que la tradición cultural y no demuestra la existencia de una especie desconocida.
+Se buscó evidencia bibliográfica fechada entre 1977 y 1993 en torno a Lawndale, grandes aves y Thunderbird, con atención especial a las cadenas asociadas con Hall, Coleman, Sanderson, *Saga*, *Pursuit*, *Fate* y *Fortean Times*.
 
-**Clasificación IIIC propuesta: Nivel IV — Tradición oral con escasos reportes modernos.**
+La pregunta no es si “Thunderbird” ya existía como categoría antes de 1994 —eso está ampliamente documentado—, sino si una fuente fechada anterior a 1994 aplicó explícitamente esa etiqueta al **caso Lawndale de 1977**.
 
-## Ficha técnica
-- Nombre: Thunderbird
-- Otros nombres: Thunderbird / Tootooch en algunas fuentes culturales
-- Código: AM-VOL-002
-- Tipo: entidad/figura aviar legendaria; supuesto ave gigante en criptozoología moderna
-- Continente: América
-- Regiones culturales: diversas regiones de Norteamérica, especialmente noroeste del Pacífico y otras áreas indígenas
-- Países asociados a reportes modernos: Estados Unidos y Canadá
-- Hábitat atribuido: cielos, montañas, bosques y regiones abiertas; variable según relato
-- Tamaño: no establecido
-- Peso: desconocido
-- Dieta: no establecida
-- Actividad: variable según relato
-- Estado: no confirmado como especie zoológica
-- Nivel IIIC: IV — Tradición oral con escasos reportes modernos
+---
 
-## Distribución geográfica
-El Thunderbird tradicional tiene una distribución cultural amplia y no corresponde a una única especie biológica.
+## 2. Resultado principal
 
-- Pacífico Noroeste — importante tradición cultural.
-- British Columbia — piezas Tsimshian documentadas por el National Museum of the American Indian.
-- Montana — tradición documentada en relatos Crow/Apsáalooke.
-- Estados Unidos — reportes modernos atribuidos a grandes aves.
-- Canadá — contexto cultural y relatos de Thunderbird.
+**No se localizó durante esta R1.6 una fuente primaria o bibliográfica contemporánea, fechada entre 1977 y 1993, que permita afirmar con seguridad que los testigos Lowe denominaron “Thunderbird” a las aves o que una publicación de ese período estableció inequívocamente “Lawndale Thunderbird” como nombre del caso.**
 
-Los puntos de avistamiento modernos no deben dibujarse como si formaran la distribución de una especie: corresponden a relatos separados y de calidad desigual.
+Por tanto, se mantiene la conclusión de v2.23: **1994 es un hito bibliográfico localizado, pero no se demuestra que Hall haya acuñado el término ni que sea el primer uso absoluto.**
 
-## Descripción
-### Thunderbird tradicional
-Las representaciones y relatos pueden mostrar un ave poderosa asociada al cielo, tormentas y poder espiritual. El Smithsonian registra que la tradición se desarrolló especialmente en la costa noroeste y aparece representada en arte y objetos ceremoniales.
+---
 
-### Thunderbird criptozoológico
-Los relatos modernos suelen describir una gran ave oscura, semejante a un águila o buitre, con una envergadura extraordinaria. Algunas fuentes populares amplían las medidas hasta rangos de varios metros, pero no existe una medición científica validada.
+## 3. Lo que sí aparece antes de 1994
 
-Rasgos testimoniales: cabeza semejante a rapaz; alas extremadamente grandes; color negro, marrón u oscuro; vocalizaciones no establecidas; ausencia de huellas diagnósticas aceptadas.
+La categoría “Thunderbird” y la literatura sobre grandes aves existían antes de 1994. La revisión bibliográfica recupera referencias anteriores a esa fecha a autores y trabajos sobre Thunderbirds, incluidos Ivan T. Sanderson y trabajos de Loren/Jerry Coleman.
 
-## Comportamiento
-No puede establecerse un comportamiento zoológico único. En la tradición cultural, Thunderbird posee capacidades extraordinarias vinculadas al clima y al poder espiritual; en relatos modernos se le atribuyen vuelo, caza y ocasional interacción agresiva con personas.
+Esto demuestra que el concepto criptzoológico ya circulaba, pero **no demuestra por sí solo una conexión documental con Lawndale**.
 
-- Vuelo de gran altura o distancia.
-- Aparición asociada a tormentas en relatos tradicionales.
-- Conducta de rapaz en interpretaciones zoológicas.
-- Supuestos ataques o intentos de levantar personas en relatos modernos.
-- Ausencia de observación controlada o seguimiento biológico.
+Esta distinción es crítica:
 
-## Hábitat
-El hábitat cambia según la interpretación. La tradición sitúa a Thunderbird en el ámbito celeste y montañoso; la versión criptozoológica lo ubica en regiones con grandes espacios abiertos y abundante fauna.
+> **Existencia previa de la categoría ≠ aplicación previa de la categoría al caso.**
 
-## Historia y contexto cultural
-El concepto de Thunderbird está documentado en fuentes etnográficas y colecciones históricas desde hace más de un siglo. El Smithsonian conserva una publicación de 1936 sobre leyendas Thunderbird/Tootooch de pueblos de la costa noroeste y señala su importancia en los tótems y artes decorativas de esas comunidades.
+---
 
-El National Museum of the American Indian conserva objetos Thunderbird de los Tsimshian y otras comunidades. Una pieza Tsimshian de alrededor de 1870 representa figuras Thunderbird como parte de un tocado de danza.
+## 4. Lawndale 1977: vocabulario disponible
 
-El Smithsonian también conserva un relato de 1998 de Joe Medicine Crow sobre Thunderbird dentro de la tradición Crow/Apsáalooke.
+Las fuentes posteriores que reproducen las entrevistas y descripciones de los Lowe hablan de **grandes aves**, aves gigantes y descripciones físicas de los animales. La evidencia revisada no permite atribuir a Ruth, Jake o Marlon Lowe el término “Thunderbird” como expresión original.
 
-Estos registros demuestran la importancia cultural de Thunderbird, pero no deben convertirse retrospectivamente en testimonios de una especie zoológica.
+La documentación posterior también utiliza expresiones como “Big Bird” y “Bigclaw/Big Claw” para reportes de grandes aves de Illinois. Estas denominaciones no deben fusionarse automáticamente con “Thunderbird”.
 
-## Cronología documental
-- Tradiciones premodernas — Thunderbird aparece en múltiples tradiciones indígenas de Norteamérica.
-- Siglo XIX — Se documentan objetos, máscaras y representaciones Thunderbird en colecciones etnográficas.
-- 1890 — Relato periodístico de Arizona posteriormente citado como caso moderno; autenticidad y detalles controvertidos.
-- 1936 — Smithsonian registra y publica una colección de leyendas Thunderbird/Tootooch de la costa noroeste.
-- 1960–1970 — Aumenta la circulación popular de relatos sobre grandes aves como posibles Thunderbirds.
-- 1977 — Lawndale, Illinois: se populariza un relato sobre dos aves enormes y un supuesto intento de levantar a un niño; documentación insuficiente para confirmarlo como evidencia zoológica.
-- 1977 — Se atribuyen a Illinois imágenes de grandes aves; la escala visual es insuficiente.
-- 1998 — Smithsonian publica *Brave Wolf and the Thunderbird*, relato de Joe Medicine Crow.
-- Siglo XXI — El término continúa utilizándose en contextos culturales y criptozoológicos.
+---
 
-## Evidencias
-### Tradición cultural
-Es la evidencia más sólida de que Thunderbird existe como concepto cultural e histórico en distintas tradiciones indígenas. No demuestra una especie zoológica.
+## 5. Jerry D. Coleman
 
-### Testimonios modernos
-Existen reportes de grandes aves, pero son escasos, heterogéneos y generalmente sin documentación instrumental suficiente.
+Las fuentes secundarias posteriores indican que Jerry D. Coleman entrevistó a Marlon, Ruth y Jake Lowe en 1977, incluso dentro de las horas posteriores al incidente, y que sus notas originales de 1977 fueron conservadas y reproducidas posteriormente.
 
-### Fotografías y videos
-Los materiales atribuidos suelen carecer de escala, procedencia o resolución suficiente para determinar el tamaño real del ave.
+Estas notas constituyen una pieza prioritaria para una futura auditoría primaria, pero **en esta R1.6 no se consultó directamente el cuaderno manuscrito original**.
 
-### Huellas
-No existe una colección de huellas de Thunderbird aceptada como evidencia diagnóstica.
+Por ello, no se puede usar la ausencia de “Thunderbird” en las reproducciones parciales como prueba absoluta de que el término jamás apareció en las notas.
 
-### ADN y restos
-No existe espécimen, tejido o ADN aceptado que confirme un ave desconocida asociada a Thunderbird.
+---
 
-### Evidencia zoológica alternativa
-Aves grandes conocidas —incluidos buitres, cóndores y grandes águilas— pueden producir observaciones impresionantes. La identificación depende de cada caso.
+## 6. Hall y el hito de 1994
 
-## Casos famosos
-### 1890 — Arizona
-Un relato periodístico de finales del siglo XIX describió un enorme animal alado. El episodio se convirtió en uno de los casos clásicos de la literatura Thunderbird, aunque su documentación no permite tratarlo como prueba zoológica.
+La bibliografía revisada mantiene a Mark A. Hall, *Thunderbirds — The Living Legend!*, 2.ª edición de 1994, como el primer hito fechado claramente localizado en nuestra cadena donde Lawndale aparece integrado en la literatura moderna de Thunderbirds.
 
-### 1977 — Lawndale, Illinois
-Se difundió un relato según el cual un niño habría sido atacado o levantado brevemente por un ave enorme. La historia se ha convertido en uno de los casos modernos más conocidos, pero los detalles disponibles son insuficientes para establecer tamaño, especie o autenticidad.
+**No se formula la afirmación “Hall acuñó el término”.** Para sostenerla sería necesario localizar una fuente anterior, o demostrar mediante la historia editorial del propio Hall que la denominación fue introducida por él.
 
-### Imágenes de Illinois — 1977
-Material cinematográfico atribuido posteriormente a Thunderbird muestra aves grandes a distancia. La escala visual es insuficiente para confirmar animales de dimensiones extraordinarias.
+La edición posterior de 2004/2007 no puede utilizarse para retroproyectar automáticamente el vocabulario de una edición anterior sobre los testimonios de 1977.
 
-## Hipótesis
-1. Ave grande conocida — algunas observaciones podrían corresponder a buitres, cóndores, águilas u otras aves vistas desde distancias que dificultan estimar el tamaño.
-2. Ave gigante desconocida — hipótesis criptozoológica de una especie no reconocida por la zoología.
-3. Linaje extinto superviviente — se ha propuesto relacionar algunos relatos con grandes aves fósiles, como teratornos; no existe evidencia de supervivencia moderna.
-4. Pterosaurio superviviente — hipótesis popular sin evidencia fósil, genética o anatómica moderna.
-5. Fenómeno atmosférico/percepción — distancia, iluminación, movimiento y clima pueden alterar la estimación visual.
-6. Tradición cultural — para muchos relatos, la explicación adecuada es cultural y simbólica, no zoológica.
+---
 
-## Cultura popular
-Thunderbird ocupa una posición particular porque su presencia cultural antecede ampliamente al uso moderno de la palabra criptido. Su imagen aparece en arte, objetos ceremoniales, literatura y divulgación.
+## 7. Fortean Times / Saga / Pursuit / Fate
 
-El Atlas debe evitar apropiarse de representaciones indígenas para convertirlas en ilustraciones de un animal desconocido. Las páginas culturales deberán identificar claramente la procedencia y el pueblo asociado a cada objeto o representación.
+La búsqueda dirigida no produjo, dentro de las fuentes accesibles en esta ronda, una pieza anterior a 1994 que pueda ser citada con suficiente seguridad como **primera aplicación explícita de “Thunderbird” a Lawndale**.
 
-## Comparativas
-No se debe representar una escala única como si existiera una especie confirmada. La comparativa deberá presentar rangos testimoniales junto a aves reales conocidas.
+Esto no significa que tales publicaciones no hayan mencionado el caso. Significa que **no hemos recuperado un ejemplar verificable que permita resolver la prioridad lingüística**.
 
-- Humano promedio — referencia.
-- Águila calva — referencia zoológica.
-- Cóndor de California — referencia de gran ave real.
-- Buitre de Turquía — posible fuente de algunas observaciones visuales.
-- Thunderbird — rango testimonial, sin escala confirmada.
+La búsqueda queda registrada como negativa provisional, no como prueba de inexistencia.
 
-## Evaluación IIIC
-- Tradición cultural: muy sólida como fenómeno cultural e histórico.
-- Distribución cultural: amplia y diversa entre pueblos y regiones; no corresponde a una distribución zoológica.
-- Testimonios modernos: escasos en relación con la amplitud de la leyenda y heterogéneos.
-- Evidencia física: no concluyente.
-- Evidencia biológica: no existe espécimen o ADN aceptado.
-- Documentación histórica: alta para la tradición; mucho más débil para la hipótesis zoológica.
-- Investigación: principalmente documental, folclórica y criptozoológica.
-- **Nivel IV — Tradición oral con escasos reportes modernos.**
+---
 
-Esta clasificación se refiere al expediente criptozoológico moderno y no disminuye el valor cultural de las tradiciones Thunderbird.
+## 8. Cadena documental actualizada
 
-## Dictamen oficial del IIIC
-El Instituto Internacional de Investigación Criptozoológica considera Thunderbird un expediente excepcional por la necesidad de distinguir claramente entre una tradición cultural indígena profundamente arraigada y las interpretaciones modernas que la convierten en un supuesto animal desconocido.
+```text
+25 julio 1977
+        │
+        ▼
+Testimonios Lowe
+“grandes aves” / descripciones físicas
+        │
+        ▼
+Entrevistas de Jerry D. Coleman
+(notas originales aún no auditadas directamente)
+        │
+        ├── literatura de grandes aves / Big Bird / Bigclaw
+        │
+        ▼
+Literatura criptzoológica posterior
+        │
+        ▼
+Hall 1994 — hito fechado localizado
+        │
+        ▼
+“Lawndale Thunderbird” consolidado en literatura posterior
+```
 
-La documentación cultural demuestra que Thunderbird es una figura importante de diversas tradiciones indígenas de Norteamérica. Las colecciones del Smithsonian y del National Museum of the American Indian ofrecen evidencia directa de esa continuidad cultural.
+Esta cadena es deliberadamente conservadora.
 
-Los relatos modernos sobre aves gigantes son insuficientes para confirmar una especie desconocida. No existe espécimen, ADN, huella diagnóstica o registro instrumental que permita establecer una población viable.
+---
 
-**DICTAMEN: CASO DE ALTO VALOR CULTURAL E HISTÓRICO; HIPÓTESIS ZOOLÓGICA NO CONFIRMADA.**
+## 9. Qué NO podemos afirmar
 
-**CLASIFICACIÓN IIIC PROPUESTA: NIVEL IV.**
+No podemos afirmar que:
 
-## Espacios visuales previstos
-- Ilustración principal.
-- Mapa de distribución cultural vs. reportes modernos.
-- Ficha visual/iconografía.
-- Ilustración comparativa tradición cultural / ave moderna.
-- Paisaje cielo / montañas / bosques.
-- Lámina cultural de arte, relatos y objetos documentados.
-- Línea de tiempo.
-- Dossier de evidencias.
-- Fichas de casos famosos.
-- Matriz de hipótesis.
-- Lámina de cultura popular.
-- Comparativa de escala.
-- Sello IIIC y página de cierre.
+- los Lowe dijeron “Thunderbird” en 1977;
+- Jerry Coleman llamó “Thunderbird” al caso en sus notas originales sin consultar el documento;
+- Hall acuñó el nombre;
+- 1994 sea definitivamente el primer uso absoluto;
+- cualquier reporte de una gran ave en Illinois entre 1977 y 1993 sea automáticamente parte del caso Lawndale.
 
-## Fuentes de investigación
-- Manuscrito base del Atlas Criptozoológico — clasificación de Thunderbird como expediente 12 / AM-VOL-002.
-- Smithsonian Libraries and Archives — Thunderbird 'Tootooch' legends.
-- National Museum of the American Indian — Thunderbird figures, Tsimshian.
-- National Museum of the American Indian — Mask headdress representing a Thunderbird.
-- Smithsonian Libraries and Archives — *Brave Wolf and the Thunderbird*, Joe Medicine Crow.
-- U.S. National Museum Bulletin 139 — discusión histórica y etnográfica del Thunderbird.
+---
 
-## Control editorial
-- Se mantiene el código AM-VOL-002 establecido para el segundo expediente de criaturas voladoras.
-- Se separa explícitamente Thunderbird cultural de la hipótesis de un ave gigante desconocida.
-- No se utilizan tradiciones indígenas como evidencia zoológica.
-- Los casos de 1890 y 1977 se presentan como relatos/documentación histórica, no como pruebas.
-- No se asigna tamaño o peso definitivo.
-- La hipótesis de teratornos/pterosaurios se mantiene como especulación, no como conclusión.
-- Las imágenes culturales deberán respetar procedencia, comunidad y condiciones de uso.
-- **Estado: expediente documental completo para revisión editorial; NO pasar a Canva.**
+## 10. Qué SÍ podemos afirmar
 
-## Inventario visual definitivo
-Mapa / arte cultural / casos / hipótesis / escala / sello IIIC.
+Podemos afirmar provisionalmente que:
+
+1. El término Thunderbird y su tradición criptzoológica son anteriores a 1994.
+2. El caso Lawndale fue documentado por investigación de campo de Jerry Coleman en 1977.
+3. La literatura posterior vinculó Lawndale con la categoría Thunderbird.
+4. No se ha demostrado todavía el punto exacto en que esa etiqueta fue aplicada por primera vez a Lawndale.
+5. Las palabras originales de los testigos deben mantenerse separadas de la terminología posterior de investigadores y autores.
+
+---
+
+## 11. IIIC provisional
+
+### Tradición Thunderbird
+**Nivel V — Folclore y leyenda.**
+
+### Lawndale / grandes aves
+**Nivel IV — Testimonios consistentes, provisional.**
+
+### Thunderbird = especie zoológica desconocida
+**No demostrado.**
+
+La clasificación del reporte moderno no debe elevarse por la mera antigüedad o riqueza de la tradición Thunderbird.
+
+---
+
+## 12. Vacíos prioritarios
+
+| Vacío | Estado |
+|---|---|
+| Notas originales de Jerry D. Coleman (1977) | 🟠 Pendiente de consulta directa |
+| Ejemplares de *Saga* 1977–1993 | 🟠 Pendiente |
+| *Pursuit* 1977–1993 | 🟠 Pendiente |
+| *Fate* 1977–1993 | 🟠 Pendiente |
+| *Fortean Times* 1977–1993 | 🟠 Pendiente |
+| Primer uso fechado de “Lawndale Thunderbird” | 🟠 No resuelto |
+| Hall 1994 como primer uso absoluto | 🔴 No demostrado |
+
+---
+
+## 13. Veredicto R1.6
+
+**R1.6 NO CIERRA la prioridad lingüística.**
+
+Sí reduce la incertidumbre: no encontramos evidencia suficiente para retroproyectar “Thunderbird” a los testigos de 1977, y 1994 permanece como hito bibliográfico útil pero no como prueba de acuñación.
+
+El expediente debe continuar en R1 antes de ser cerrado.
+
+### Regla editorial incorporada
+
+> **No atribuir al testigo una etiqueta que aparece en la literatura posterior sin una fuente contemporánea que demuestre que el testigo utilizó esa palabra.**
+
+**Canva:** 🔒 BLOQUEADO.
 
 ---
 
 ## AM-MAR-001 — FUENTE CANÓNICA INTEGRAL
 
-# v1.9 — AM-MAR-001 — LUSCA
+# v2.30 — R1.5 AM-MAR-001: LUSCA
+## Wright 1967 — “The Lusca of Andros”
 
-## Estado
-Expediente documental — revisión editorial. **No pasar a Canva todavía.**
+**Estado:** R1.5 completada con reservas documentales.
 
-## Nota editorial
-El manuscrito base establece a Lusca como expediente 13 y primer caso de "Criaturas marinas", pero no aporta en el fragmento recuperado un cuerpo documental específico sobre Lusca. Por ello, esta versión separa material base de investigación externa.
+**Objetivo de la revisión:** reconstruir el contenido atribuido a Bruce S. Wright en *The Lusca of Andros*, *Atlantic Advocate*, n.º 11, junio de 1967; identificar el informante principal; separar la tradición denominada “Lusca” del relato independiente del “big dead scuttle”; y determinar qué parte puede tratarse como evidencia documental primaria y cuál sigue dependiendo de fuentes secundarias.
 
-La investigación científica confirma el contexto físico de los blue holes de Bahamas, especialmente Andros: estudios han documentado sistemas estratificados, con agua dulce oxigenada sobre agua salina de origen marino, y USGS registra numerosos blue holes interiores y cuevas oceánicas. Esto documenta el ambiente, no la existencia de Lusca.
+---
 
-## 1. Resumen ejecutivo
-Lusca es el nombre utilizado en criptozoología popular para una criatura asociada principalmente a los blue holes de Bahamas, especialmente Andros. Las descripciones modernas suelen compararla con un pulpo gigante y, en algunas versiones, con un cefalópodo de dimensiones extraordinarias.
+## 1. Resultado de la búsqueda
 
-La leyenda debe analizarse por separado de la existencia real de estos ambientes. La presencia de cuevas profundas, corrientes, visibilidad limitada y fauna marina no constituye por sí misma evidencia de un cefalópodo desconocido.
+La búsqueda web actual **no permitió recuperar una copia digital verificable del ejemplar completo de *Atlantic Advocate* de junio de 1967 ni una transcripción facsimilar del artículo original**. Por tanto, este entregable no trata como lectura directa del original aquello que sólo pudo reconstruirse mediante fuentes posteriores.
 
-## 2. Ficha técnica
-- Nombre: Lusca
-- Código: AM-MAR-001
-- Tipo: criatura marina / supuesto cefalópodo gigante
-- Continente: América
-- Región: Bahamas; especialmente Andros
-- Hábitat atribuido: blue holes, cuevas submarinas y aguas costeras
-- Tamaño: no establecido; las cifras extraordinarias pertenecen a relatos o literatura popular
-- Peso: desconocido
-- Dieta: atribuida hipotéticamente a peces y otros animales
-- Actividad: atribuida principalmente a aguas profundas o cavidades
-- Estado: no confirmado como especie zoológica
-- Nivel IIIC propuesto: **IV — Tradición/relatos con escasa evidencia física verificable**
+La referencia bibliográfica del artículo sí aparece de forma consistente como:
 
-## 3. Distribución geográfica
-Andros es el núcleo geográfico del expediente. USGS describe aproximadamente 175 blue holes interiores y más de 50 cuevas oceánicas conocidas a lo largo de la barrera oriental de Andros. Las mareas impulsan el movimiento de agua en algunos sistemas.
+> Bruce S. Wright, “The Lusca of Andros,” *Atlantic Advocate*, no. 11, June 1967.
 
-El mapa del Atlas deberá representar por separado los ambientes asociados y los lugares donde existan relatos o avistamientos. No debe dibujarse una "distribución zoológica" de Lusca.
+Una fuente secundaria especializada reproduce y atribuye a Wright la siguiente cadena documental: durante su estancia en Andros, Wright recibió de un **guía local** información sobre una criatura llamada *lusca*, asociada a cavernas calizas bajo lagos y a los llamados *blue holes* y *banana holes*. La misma fuente afirma que el guía **no había visto personalmente** al Lusca, aunque sostenía que era observado ocasionalmente. Posteriormente, un **pescador** contó a Wright que había visto un “big dead scuttle” flotando en el mar el año anterior, con una longitud superior a la de su embarcación de 18 pies. citeturn3search0
 
-## 4. Descripción física
-No existe una descripción zoológica estandarizada. En la literatura criptozoológica moderna Lusca suele representarse como un pulpo o cefalópodo de tamaño excepcional.
+Una fuente de investigación secundaria reproduce además la descripción atribuida a Wright: un animal grande, peligroso, “half-octopus, half-dragon”, asociado a las cavernas calizas de Andros. Esa reproducción debe conservarse como **transcripción secundaria**, no como cita primaria auditada. citeturn2search1
 
-Rasgos atribuidos:
-- cuerpo semejante a pulpo o cefalópodo gigante;
-- múltiples brazos/tentáculos;
-- color variable según relato;
-- ojos y ventosas no establecidos de forma diagnóstica;
-- sin vocalizaciones conocidas;
-- sin huellas o marcas diagnósticas aceptadas.
+---
 
-Las ilustraciones deberán etiquetarse como **representación hipotética**.
+## 2. Informante principal: el guía local
 
-## 5. Comportamiento
-Los relatos atribuidos describen una criatura capaz de permanecer oculta en cavidades profundas y, en algunas versiones, sujetar o arrastrar animales. Estas conductas proceden del relato, no de observaciones zoológicas controladas.
+La información central sobre el **Lusca** procede, según la cadena secundaria disponible, de un guía local de Andros.
 
-Hipótesis de comportamiento:
-- ocultamiento en cavidades profundas;
-- desplazamiento entre cuevas y aguas abiertas;
-- captura de presas grandes;
-- interacción peligrosa con humanos según relatos;
-- ausencia de observaciones repetibles bajo condiciones científicas.
+El relato atribuido a ese guía contiene cuatro elementos:
 
-### Alimentación — hipótesis
-Si fuera un cefalópodo gigante, su dieta tendría que ser compatible con la disponibilidad de presas del ambiente. Es una inferencia zoológica, no una observación de Lusca.
+1. Existencia de una criatura denominada **Lusca**.
+2. Asociación con cavernas calizas y cuerpos de agua conocidos como *blue holes* / *banana holes*.
+3. Descripción monstruosa con componentes de cefalópodo y dragón.
+4. El propio guía **no había observado personalmente** al animal.
 
-## 6. Hábitat
-Andros presenta roca carbonatada muy porosa y numerosos blue holes interiores y cuevas submarinas. Un estudio de diez blue holes interiores encontró estratificación vertical, con agua dulce oxigenada sobre aguas salinas de origen marino y condiciones reductoras en profundidad.
+Esto es metodológicamente decisivo: el dato de 1967 es un **registro etnográfico de una tradición transmitida a Wright**, no un avistamiento personal del investigador ni un testimonio ocular directo del guía.
 
-USGS documenta además más de 175 blue holes interiores y más de 50 cuevas oceánicas conocidas en la barrera oriental de Andros. Los sistemas oceánicos pueden experimentar flujo impulsado por mareas.
+Por ello no debe redactarse como:
 
-## 7. Historia del caso
-El manuscrito base identifica a Lusca como el primer expediente marino, pero no aporta una cronología histórica específica en el fragmento recuperado. Esta sección es investigación externa.
+> “Wright vio al Lusca.”
 
-La literatura criptozoológica moderna asocia Lusca con los blue holes de Bahamas y con relatos sobre grandes cefalópodos. La documentación pública disponible es fragmentaria y depende en buena medida de fuentes secundarias.
+Ni como:
 
-Los blue holes sí poseen una historia científica bien documentada: investigaciones geológicas han utilizado estos sistemas para reconstruir cambios del nivel del mar y condiciones ambientales del pasado.
+> “El guía vio al Lusca.”
 
-## 8. Cronología documental
-- Tradiciones y relatos locales: cronología primaria pendiente de localizar y documentar.
-- Siglo XX: Lusca se incorpora progresivamente a la literatura criptozoológica como supuesto cefalópodo gigante de Bahamas.
-- 1979: Science publica investigación sobre un blue hole de Andros y reconstruye cambios del nivel del mar mediante espeleotemas submarinos.
-- 2020: estudio revisado por pares caracteriza la química y biología de diez blue holes interiores de Andros.
-- 2021: USGS documenta la complejidad de los sistemas de blue holes y cuevas oceánicas de Andros.
-- Siglo XXI: Lusca continúa apareciendo en literatura y medios de criptozoología y exploración submarina.
+La formulación documentalmente correcta es:
 
-## 9. Evidencias
-### Fotografías
-No existe fotografía científicamente autenticada que demuestre un cefalópodo gigante desconocido en los blue holes de Bahamas.
+> **“Wright registró la información proporcionada por un guía local de Andros sobre una criatura denominada Lusca.”**
 
-### Videos
-Materiales de exploración y grabaciones atribuidas a criaturas grandes no permiten confirmar una especie desconocida sin escala y análisis independiente.
+---
 
-### Audios
-No existe firma acústica aceptada de Lusca.
+## 3. El “big dead scuttle”: cadena independiente
 
-### Huellas / marcas
-No existe estructura diagnóstica aceptada como evidencia de Lusca.
+El segundo elemento del artículo es distinto.
 
-### Restos / ADN
-No se ha identificado espécimen, tejido o secuencia genética aceptada como perteneciente a una especie desconocida llamada Lusca.
+Según la reconstrucción secundaria, un **pescador** informó a Wright que el año anterior había visto un **“big dead scuttle”** flotando en el mar. La longitud atribuida al animal superaba la de su embarcación, descrita como de aproximadamente 18 pies.
 
-### Ambiente verificable
-Los blue holes y cuevas de Andros son ambientes reales, complejos y científicamente documentados. Son evidencia del escenario, no del animal.
+Este relato presenta una diferencia fundamental respecto de la tradición del Lusca:
 
-## 10. Casos famosos y relatos
-La documentación pública disponible no permite construir todavía una lista de casos con el mismo nivel de detalle que Bigfoot o Mothman. El Atlas debe conservar esta limitación.
+| Elemento | Relato del guía | Relato del pescador |
+|---|---|---|
+| Informante | Guía local | Pescador |
+| Tipo de información | Tradición / creencia | Supuesto encuentro con un animal |
+| Término asociado | **Lusca** | **“big dead scuttle”** |
+| Observación personal | No | Sí, según la fuente secundaria |
+| Hábitat | Blue holes / banana holes | Mar abierto / superficie marina |
+| Evidencia física | Ninguna | Ninguna conservada/documentada |
+| Relación automática con Lusca | No demostrada | No demostrada |
 
-### Relatos de animales arrastrados
-Algunas narraciones atribuyen a Lusca la capacidad de arrastrar animales hacia cavidades profundas. Son relatos, no evidencia zoológica.
+La separación debe mantenerse incluso aunque Wright haya incluido ambos relatos en el mismo artículo.
 
-### Avistamientos en blue holes
-Relatos modernos describen movimientos, sombras o formas grandes bajo el agua. La visibilidad limitada y la ausencia de escala dificultan su interpretación.
+---
 
-### Supuestos restos de cefalópodos gigantes
-Las referencias populares a restos o grandes masas orgánicas requieren procedencia y análisis independiente antes de ser incorporadas como evidencia.
+## 4. ¿Wright identificó el “big dead scuttle” como Lusca?
 
-## 11. Hipótesis
-1. **Cefalópodo conocido de gran tamaño:** observación de un pulpo grande conocido sin escala adecuada.
-2. **Cefalópodo desconocido:** especie aún no descrita; requeriría restos, ADN, ejemplares o registros reproducibles.
-3. **Fauna marina mal identificada:** tiburones, rayas, tortugas u otros animales pueden producir siluetas difíciles de interpretar.
-4. **Fenómenos físicos del blue hole:** corrientes, remolinos, visibilidad y formas del fondo pueden generar interpretaciones de criaturas.
-5. **Tradición / folclore:** explicación cultural de ambientes peligrosos, profundos y poco visibles.
-6. **Fraude o exageración:** relatos sin procedencia verificable pueden incorporar elementos sensacionalistas.
+**No podemos demostrarlo con el material primario actualmente recuperado.**
 
-## 12. Cultura popular
-Lusca aparece principalmente en literatura, documentales y contenidos de exploración/criptozoología relacionados con Bahamas. Su imagen se ha convertido en una representación popular del "monstruo del blue hole".
+La bibliografía secundaria presenta ambos testimonios dentro de la discusión de Wright sobre Andros, pero eso no basta para afirmar que Wright consideró que el cadáver observado por el pescador era necesariamente un Lusca.
 
-El Atlas debe evitar presentar la representación artística como reconstrucción zoológica.
+Por tanto, el Atlas no utilizará esta equivalencia:
 
-## 13. Comparativas
-No existe escala real de Lusca. La comparación deberá mostrar referencias conocidas y un rango hipotético claramente etiquetado:
-- pulpo común;
-- grandes cefalópodos conocidos;
-- humano buceador;
-- blue hole;
-- Lusca como silueta hipotética sin dimensión confirmada.
+`Lusca = big dead scuttle`
 
-## 14. Evaluación IIIC
-- Distribución: concentrada culturalmente en Bahamas, especialmente Andros y sus blue holes.
-- Número de testimonios: no existe inventario primario consolidado en el manuscrito base.
-- Evidencia física: no concluyente / no verificada.
-- Evidencia biológica: no existe espécimen o ADN aceptado.
-- Tradición/contexto: importante dentro del relato local y literatura criptozoológica.
-- Ambiente: muy bien documentado científicamente.
-- Investigación: requiere localizar fuentes primarias bahamenses y registros históricos de avistamientos.
-- **Nivel propuesto: IV — Tradición/relatos con escasa evidencia física verificable.**
+La cadena segura es:
 
-La clasificación se refiere al expediente criptozoológico y no al valor científico de los blue holes, que sí están documentados.
+`tradición denominada Lusca`
 
-## 15. Dictamen oficial del IIIC
-El Instituto Internacional de Investigación Criptozoológica considera Lusca un expediente de interés principalmente por la relación entre una leyenda de criatura marina y uno de los ambientes kársticos acuáticos más singulares de Bahamas.
+**y, por separado:**
 
-La existencia de blue holes y cuevas submarinas en Andros está sólidamente documentada por investigación científica. Sin embargo, el expediente no presenta evidencia zoológica suficiente para confirmar un cefalópodo gigante desconocido.
+`testimonio de un “big dead scuttle”`
 
-Las dimensiones extraordinarias, los ataques y otras capacidades atribuidas a Lusca deben permanecer dentro de la categoría de relatos o hipótesis hasta que exista evidencia verificable.
+La posible conexión queda como **interpretación**, no como hecho documental.
 
-**DICTAMEN: CASO MARINO DE INTERÉS FOLCLÓRICO Y AMBIENTAL; HIPÓTESIS ZOOLÓGICA NO CONFIRMADA.**
+---
 
-**CLASIFICACIÓN IIIC PROPUESTA: NIVEL IV.**
+## 5. Importancia de Wright 1967
 
-## 16. Fuentes de investigación
-- Manuscrito base del Atlas Criptozoológico — Lusca aparece como expediente 13 y primer caso de Criaturas marinas.
-- Björnerås et al. (2020), *Fundamental and Applied Limnology* — química y biología de diez blue holes interiores de Andros.
-- U.S. Geological Survey (2021) — blue holes interiores y cuevas oceánicas de Andros.
-- Gascoyne et al. (1979), *Science* — investigación geológica de un blue hole de Bahamas.
-- Literatura criptozoológica secundaria — marco moderno del relato; requiere ampliación con fuentes primarias antes del cierre definitivo.
+Wright 1967 sigue siendo el **primer punto documental claramente localizado en nuestra revisión donde el nombre “Lusca” aparece asociado de forma explícita con Andros**.
 
-## 17. Control editorial
-- Se mantiene AM-MAR-001 como código del primer expediente marino.
-- Se distingue investigación externa del material presente en el manuscrito base.
-- No se presentan dimensiones extraordinarias como hechos.
-- Los blue holes son evidencia del ambiente, no evidencia del Lusca.
-- Quedan pendientes fuentes primarias bahamenses para fortalecer la historia cultural y los casos famosos.
-- Fotografías y videos deberán conservar procedencia, fecha, escala y contexto.
-- **Estado: entregable documental v1.9; listo para revisión editorial, pero no para Canva hasta completar el bloque documental.**
+Esto no significa que Wright haya inventado el término ni que la tradición comenzara en 1967. Significa únicamente que, dentro de las fuentes que hemos conseguido rastrear hasta ahora, **éste es el primer registro moderno claramente identificado y fechado que hemos podido verificar indirectamente**.
 
-## Espacios visuales previstos
-- Ilustración principal Lusca / blue hole.
-- Mapa de Andros y distribución de blue holes.
-- Corte transversal del blue hole.
-- Anatomía hipotética claramente etiquetada.
-- Dossier de evidencias.
-- Fichas de relatos.
-- Matriz de hipótesis.
-- Comparativa de escala.
-- Página de dictamen IIIC.
+Una investigación etnográfica posterior en Andros introduce una cautela adicional: en entrevistas realizadas décadas después, la criatura Lusca fue mencionada principalmente por instructores de buceo y personas no bahameñas vinculadas al turismo, mientras que los residentes de Andros entrevistados por los investigadores no la mencionaron. Esto no refuta el registro de Wright, pero sí aconseja no presentar la tradición como una creencia contemporánea uniforme de toda la población de Andros. citeturn0search15
+
+---
+
+## 6. Estado de la cadena documental
+
+### Cadena A — tradición Lusca
+
+`Wright 1967 → guía local → nombre “Lusca” → blue holes / banana holes`
+
+**Estado:** 🟠 documentada indirectamente; artículo primario pendiente de consulta directa.
+
+### Cadena B — gran cefalópodo
+
+`Wright 1967 → pescador → “big dead scuttle” → observación de un animal muerto`
+
+**Estado:** 🟠 documentada indirectamente; artículo primario pendiente de consulta directa.
+
+### Conexión A ↔ B
+
+**Estado:** 🔴 no demostrada.
+
+---
+
+## 7. Implicación para el IIIC
+
+### Lusca como tradición
+
+**Nivel V — Folclore y leyenda.**
+
+La información de Wright, tal como puede reconstruirse, es principalmente un registro de tradición transmitida por un informante que no afirma haber visto personalmente al animal.
+
+### “Big dead scuttle”
+
+**Nivel IV — Testimonio consistente, provisional**, pero sólo como caso independiente de supuesto cefalópodo extraordinario y no como prueba automática de Lusca.
+
+### Especie zoológica desconocida
+
+**No demostrada.**
+
+No existe en esta cadena documental un espécimen conservado, fotografía verificable, análisis anatómico o evidencia genética que permita elevar la hipótesis a una entidad zoológica reconocida o desconocida.
+
+---
+
+## 8. Resolución R1.5
+
+**R1.5 queda cerrada con reservas.**
+
+La revisión consigue resolver parcialmente la pregunta central:
+
+> Wright documentó una tradición llamada **Lusca** transmitida por un guía local y, separadamente, registró un relato de un pescador sobre un **“big dead scuttle”**.
+
+Lo que **no** podemos demostrar todavía es que Wright considerara ambos relatos como el mismo fenómeno.
+
+Por tanto, el Atlas mantendrá ambos registros separados.
+
+---
+
+## 9. Vacíos que permanecen
+
+1. Recuperar directamente el ejemplar de *Atlantic Advocate*, junio de 1967.
+2. Verificar la redacción exacta de Wright.
+3. Identificar, si el artículo lo permite, el nombre del guía local.
+4. Determinar la identidad del pescador.
+5. Establecer la fecha exacta del supuesto avistamiento del “big dead scuttle”.
+6. Determinar si Wright relacionó explícitamente ambos relatos.
+7. Buscar referencias bahameñas anteriores a 1967 que utilicen el término Lusca.
+
+---
+
+## 10. Estado editorial
+
+**AM-MAR-001 — Lusca:** 🟠 **R1 abierta / pendiente de cierre definitivo.**
+
+**Canva:** 🔒 BLOQUEADO.
+
+El expediente no se aprobará para diseño hasta completar la comprobación de la fuente primaria de Wright o documentar formalmente que no ha podido recuperarse después de una búsqueda archivística suficiente.
+
+---
+
+## 11. Regla editorial derivada
+
+> **Cuando una misma fuente registra una tradición y un supuesto avistamiento, no deben fusionarse ambos testimonios sólo porque aparezcan juntos en el mismo artículo. La identidad entre ambos debe estar explícitamente demostrada por la fuente.**
+
+---
+
+## Bibliografía de control
+
+- Wright, Bruce S. “The Lusca of Andros.” *Atlantic Advocate*, no. 11, June 1967. Referencia bibliográfica localizada; texto primario no recuperado directamente en esta ronda.
+- Raynal, Michel. “The Case for the Giant Octopus.” *Fortean Studies*, vol. 1, 1994. Citado por fuentes secundarias como una de las referencias posteriores para la genealogía documental del Lusca. citeturn3search0
+- *Underwater Speleology*, estudio etnográfico posterior sobre las percepciones de los blue holes y el Lusca en Andros. citeturn0search15
 
 ---
 
 ## AM-MAR-002 — FUENTE CANÓNICA INTEGRAL
 
 # ATLAS CRIPTOZOOLÓGICO
+# v2.37 — R1 AM-MAR-002
+## CIERRE DOCUMENTAL — CADDY (CADBOROSAURUS)
 
-# VOLUMEN I — AMÉRICA
+**Estado:** R1 cerrada con reservas documentales
+**Código canónico:** AM-MAR-002
+**Código absorbido:** AM-DEP-003
+**Canva:** BLOQUEADO
 
-# SECCIÓN V · CRIATURAS MARINAS
+## 1. Objetivo
 
-# EXPEDIENTE AM-MAR-002
+Evaluar la evidencia de Caddy/Cadborosaurus después de la corrección canónica de v2.36, separando testimonios, evidencia física, fuentes contemporáneas y reinterpretaciones posteriores. Esta revisión no cuenta AM-DEP-003 como evidencia independiente.
 
-CADDY
+## 2. Evidencia física principal: Naden Harbour, 1937
 
-(CADBOROSAURUS)
+La fuente documental actualmente accesible sobre el episodio registra un cadáver de aproximadamente 3,5 m extraído el 4 de julio de 1937 del primer estómago de un cachalote capturado cerca de Langara Island. La cronología conservada indica que fue fotografiado por F. S. Huband y G. V. Boorman y que hubo varios testigos de la estación. El cadáver fue trasladado a Bellevue, expuesto en acetona y posteriormente llevado a Victoria. Francis Kermode lo identificó como resto de un feto de ballena barbada y el espécimen no quedó conservado en las colecciones del museo. [Fuente web: Cadborosaurus.ca, Naden Harbour Carcass.]
 
-v2.0 · EXPEDIENTE DOCUMENTAL
+La existencia histórica del episodio y de fotografías contemporáneas está bien documentada; la identidad zoológica del cadáver no puede comprobarse hoy mediante examen directo porque el material se perdió.
 
-Evaluación IIIC propuesta: NIVEL III
+## 3. Prensa contemporánea
 
-[ ESPACIO VISUAL RESERVADO — ILUSTRACIÓN PRINCIPAL — CADDY EN AGUAS DE LA COSTA DE COLUMBIA BRITÁNICA ]
+La documentación secundaria consultada identifica artículos contemporáneos en Victoria Colonist (10 y 24 de julio de 1937) y Bellevue American (15 de julio de 1937). Estos registros son relevantes para la cadena original, pero esta R1 no los trata como si se hubiera realizado una transcripción directa completa de cada ejemplar.
 
-## Nota editorial: un caso marino con abundantes testimonios, pero sin espécimen
+## 4. Testimonios
 
-El manuscrito base establece a Caddy (Cadborosaurus) como el expediente 14 del Atlas y segundo de la sección de criaturas marinas. La plantilla editorial exige separar testimonios, tradición, evidencia física y explicación científica.
+El corpus contiene múltiples testimonios históricos de animales marinos serpentiniformes, pero no todos son necesariamente independientes. La auditoría mantiene separadas las personas, publicaciones y relatos cuando proceda y no utiliza el código absorbido AM-DEP-003 para aumentar artificialmente el número de casos.
 
-La investigación externa muestra que Caddy alcanzó notoriedad pública en 1933 en Victoria, Columbia Británica, después de una serie de reportes difundidos por la prensa local. La documentación histórica posterior reúne numerosos testimonios, pero la propia literatura favorable al caso reconoce que sigue siendo un criptido por la ausencia de un espécimen verificable.
+## 5. Interpretación de la evidencia
 
-El expediente también contiene un elemento especialmente controvertido: el cadáver hallado en el estómago de un cachalote en Naden Harbour en 1937. El ejemplar se perdió antes de poder realizar un estudio moderno completo. Por ello, no se presenta como espécimen confirmado.
+La interpretación de Naden Harbour como un espécimen de Cadborosaurus fue una interpretación posterior. La fuente histórica registra que Kermode lo consideró un feto de ballena barbada. Bousfield y LeBlond posteriormente interpretaron las fotografías como evidencia de Cadborosaurus y en 1995 propusieron una descripción taxonómica formal; esa interpretación ha sido objeto de críticas metodológicas y no constituye consenso zoológico.
 
-## 1. Resumen ejecutivo
+La literatura crítica señala además que el conjunto de avistamientos presenta descripciones discordantes y que varias explicaciones de animales conocidos o fenómenos marinos han sido propuestas. Por tanto, los testimonios no deben tratarse como prueba de una sola especie sin resolver previamente esas discrepancias.
 
-Cadborosaurus, conocido popularmente como Caddy, es el nombre aplicado a una supuesta criatura marina serpentina de la costa del Pacífico Norte, especialmente de Columbia Británica. El nombre combina Cadboro Bay —uno de los lugares asociados a los reportes— con el sufijo griego '-saurus'. La British Columbia Folklore Society identifica Caddy como una de las criaturas marinas más conocidas de la provincia.
+## 6. Evaluación IIIC
 
-La fase moderna de notoriedad comenzó en 1933, cuando el editor Archie Wills impulsó la cobertura de varios relatos en el Victoria Daily Times. La campaña produjo nuevos testimonios y el nombre 'Caddy'.
+**Nivel recomendado: III — evidencia testimonial múltiple, con reservas.**
 
-Desde entonces se han documentado avistamientos en distintas zonas de la costa de Columbia Británica y del Pacífico noroccidental. No obstante, no existe un espécimen conservado que permita establecer la existencia y naturaleza de una especie denominada Cadborosaurus.
+La asignación no debe elevarse por el simple volumen de relatos. La independencia de fuentes, la calidad de las descripciones y la posibilidad de explicaciones alternativas deben ponderarse antes de considerar un nivel superior.
 
-[ ESPACIO VISUAL RESERVADO — RESUMEN GRÁFICO — HISTORIA / TESTIMONIOS / EVIDENCIA FÍSICA ]
+## 7. Resolución de R1
 
-## 2. Ficha técnica
+AM-MAR-002 **permanece como expediente válido del Atlas**, pero **no queda aprobado como evidencia de una especie zoológica desconocida**.
 
-Nombre: Cadborosaurus
+Estado documental:
 
-Nombre popular: Caddy
+- Existencia histórica del fenómeno/reportes: **documentada**.
+- Naden Harbour 1937: **documentado históricamente; espécimen perdido**.
+- Fotografías de 1937: **documentadas**.
+- Identificación como Cadborosaurus: **hipótesis posterior, no demostrada**.
+- Independencia completa de todos los avistamientos: **no demostrada**.
+- Doble conteo con AM-DEP-003: **resuelto en v2.35/v2.36**.
+- IIIC: **Nivel III, provisional/con reservas**.
+- Especie desconocida: **no confirmada**.
+- Canva: **bloqueado**.
 
-Código: AM-MAR-002
+## 8. Vacíos que permanecen abiertos
 
-Tipo: Supuesto animal marino serpentino / criptido
+1. Consulta directa y sistemática de todos los ejemplares de prensa de julio de 1937.
+2. Recuperación de documentación institucional original del Royal BC Museum y Pacific Biological Station, si existe.
+3. Reconstrucción independiente de los testimonios principales.
+4. Análisis técnico moderno de las fotografías de Naden Harbour.
+5. Comparación controlada de las hipótesis de identificación zoológica.
 
-Continente: América
+Estos vacíos no invalidan el expediente histórico, pero impiden presentarlo como caso zoológicamente demostrado.
 
-País principal: Canadá
+## 9. Regla editorial
 
-Región principal: Columbia Británica y costa del Pacífico Norte
+> Un cadáver histórico fotografiado y un conjunto de testimonios pueden documentar un caso; no demuestran por sí solos que el organismo represente una especie desconocida.
 
-Hábitat atribuido: Bahías, ensenadas, canales y aguas costeras profundas
+## 10. Próximo paso
 
-Tamaño: Variable según testimonio; no establecido científicamente
-
-Peso estimado: Desconocido
-
-Dieta: No establecida; algunas narraciones atribuyen depredación de peces y otros animales
-
-Actividad: Avistamientos principalmente superficiales y breves
-
-Estado: No confirmado como especie zoológica
-
-Nivel IIIC propuesto: III — Múltiples testimonios consistentes
-
-Nota: las dimensiones extraordinarias que aparecen en relatos no se convierten en medidas oficiales del animal.
-
-[ ESPACIO VISUAL RESERVADO — FICHA TÉCNICA / ICONOGRAFÍA ]
-
-## 3. Distribución geográfica
-
-Los reportes se concentran en aguas de Columbia Británica y se extienden por la costa del Pacífico noroccidental. Cadboro Bay, Victoria, ocupa un lugar central en la denominación moderna.
-
-- Cadboro Bay — origen del nombre y zona históricamente asociada al fenómeno.
-- Victoria y Saanich — numerosos relatos costeros.
-- Vancouver Island — amplia concentración de reportes.
-- Desolation Sound / Homfray Channel — relatos de grandes formas o cuerpos segmentados.
-- Queen Charlotte Islands / Haida Gwaii — contexto del caso Naden Harbour de 1937.
-- Pacífico Noroeste — distribución más amplia atribuida al fenómeno.
-
-El mapa editorial deberá diferenciar lugares con relatos documentados de la supuesta distribución biológica del animal.
-
-[ ESPACIO VISUAL RESERVADO — MAPA — COSTA DE COLUMBIA BRITÁNICA / PUNTOS HISTÓRICOS ]
-
-## 4. Descripción física
-
-No existe una anatomía única aceptada. Las descripciones históricas varían considerablemente, aunque ciertos rasgos aparecen de forma recurrente.
-
-- Cuerpo alargado o serpentino.
-- Uno o varios segmentos o jorobas visibles sobre el agua.
-- Cabeza elevada en algunos relatos, descrita como pequeña o semejante a la de un reptil.
-- Cuello arqueado en determinados testimonios.
-- Coloración variable: oscura, marrón, gris o verdosa.
-- Longitud muy variable según observador y distancia.
-- Ausencia de una huella, esqueleto o estructura anatómica diagnóstica confirmada.
-
-### Variabilidad de los testimonios
-
-Un aspecto importante del expediente es que no todos los testigos describen el mismo animal. Algunos relatos parecen compatibles con un cuerpo largo y bajo; otros mencionan cabeza elevada, múltiples jorobas o una silueta semejante a un mamífero marino.
-
-[ ESPACIO VISUAL RESERVADO — LÁMINA ANATÓMICA — RASGOS RECURRENTES VS. RASGOS VARIABLES ]
-
-## 5. Comportamiento
-
-Los relatos atribuyen a Caddy un comportamiento principalmente evasivo: aparece durante segundos o minutos, se desplaza a distancia de embarcaciones y desaparece bajo la superficie.
-
-- Desplazamiento rápido o sostenido cerca de la superficie.
-- Emergencia parcial del cuerpo.
-- Posible reacción a embarcaciones.
-- Conducta generalmente no agresiva en la mayoría de relatos.
-- Supuesta depredación de animales marinos en algunos testimonios.
-- Ausencia de observación prolongada y controlada.
-
-### Alimentación
-
-No existe evidencia directa de la dieta. La hipótesis de un gran vertebrado marino implicaría una demanda energética considerable, por lo que el ambiente tendría que proporcionar una fuente de alimento abundante.
-
-[ ESPACIO VISUAL RESERVADO — SECUENCIA DE COMPORTAMIENTO HIPOTÉTICO ]
-
-## 6. Hábitat
-
-El ambiente atribuido a Caddy comprende la compleja costa de Columbia Británica: fiordos, canales, bahías, ensenadas e islas. Estas aguas proporcionan refugio, profundidad y abundante fauna marina.
-
-El entorno real es importante para interpretar los testimonios: troncos flotantes, oleaje, cetáceos, pinnípedos y peces pueden generar siluetas o movimientos difíciles de identificar desde una embarcación.
-
-[ ESPACIO VISUAL RESERVADO — PAISAJE — FIORDOS / ISLAS / CANALES DE COLUMBIA BRITÁNICA ]
-
-## 7. Historia del caso
-
-### Antes de 1933
-
-La literatura sobre Caddy recoge tradiciones costeras indígenas y referencias a animales marinos extraordinarios anteriores a la campaña periodística de 1933. Estas tradiciones deben tratarse como patrimonio cultural y no como evidencia zoológica automática.
-
-### 1933: nacimiento del fenómeno moderno
-
-El 5 de octubre de 1933 comenzó una cobertura intensa de avistamientos en el Victoria Daily Times. Archie Wills, editor del periódico, convirtió los relatos en un fenómeno público y posteriormente impulsó el nombre Caddy.
-
-### 1937: el caso Naden Harbour
-
-Un extraño cuerpo encontrado en el estómago de un cachalote en Naden Harbour fue interpretado por algunos investigadores como un posible ejemplar juvenil de Caddy. El cadáver se perdió durante el traslado y no quedó disponible para una evaluación moderna.
-
-### Siglo XX–XXI
-
-Investigadores como Bernard Heuvelmans, Paul LeBlond y Edward Bousfield incorporaron Caddy a estudios de criptozoología marina. La literatura posterior reúne y analiza numerosos testimonios, pero no ha producido un espécimen aceptado por la zoología.
-
-[ ESPACIO VISUAL RESERVADO — ARCHIVO HISTÓRICO — 1933 / 1937 / INVESTIGACIÓN POSTERIOR ]
-
-## 8. Cronología documental
-
-- Antes del siglo XX — relatos y tradición costera sobre animales marinos extraordinarios.
-- 1933 — intensa cobertura periodística de avistamientos en Victoria; Caddy se convierte en fenómeno público.
-- 1937 — cadáver hallado en el estómago de un cachalote en Naden Harbour; el ejemplar se pierde posteriormente.
-- 1968 — Bernard Heuvelmans incluye Caddy en su análisis mundial de serpientes marinas.
-- 1973 — LeBlond y Sibert publican una investigación regional que incorpora nuevos avistamientos.
-- 1989 — creación del British Columbia Scientific Cryptozoology Club, que impulsa nuevas investigaciones.
-- 1995 — LeBlond y Bousfield proponen formalmente el nombre Cadborosaurus willsi y una interpretación reptiliana del animal; esta propuesta no equivale a aceptación taxonómica por la zoología.
-- 1997 — se documentan nuevos reportes periodísticos en aguas de Victoria y Desolation Sound.
-- 2014 — se publica una actualización que recopila los avistamientos documentados hasta entonces y analiza estadísticamente los datos.
-- Siglo XXI — continúan los reportes y la discusión sobre explicaciones zoológicas alternativas.
-
-[ ESPACIO VISUAL RESERVADO — LÍNEA DE TIEMPO ]
-
-## 9. Evidencias
-
-### A. Testimonios
-
-Es la categoría más abundante. Existen numerosos relatos de navegantes, pescadores, familias y otros observadores. Su valor depende de distancia, duración, condiciones de luz, presencia de escala y consistencia entre testigos.
-
-### B. Fotografías y películas
-
-Existen imágenes atribuidas a Caddy, pero la mayoría carece de elementos suficientes para establecer tamaño y anatomía con seguridad.
-
-### C. El cadáver de Naden Harbour
-
-Es el caso físico más famoso: un cuerpo recuperado del estómago de un cachalote en 1937. Su desaparición impide una reevaluación moderna. El caso es evidencia histórica de un hallazgo reportado, no evidencia zoológica definitiva.
-
-### D. Moldes / huellas
-
-No existe una colección de huellas diagnósticas comparable a la de un animal terrestre.
-
-### E. ADN
-
-No existe una secuencia genética aceptada que confirme una especie desconocida correspondiente a Caddy.
-
-### F. Restos
-
-No existe un espécimen conservado y disponible para examen científico.
-
-[ ESPACIO VISUAL RESERVADO — DOSSIER DE EVIDENCIAS — NIVEL DE CONFIABILIDAD POR CATEGORÍA ]
-
-## 10. Casos famosos
-
-### 1933 — Victoria / Cadboro Bay
-
-La campaña periodística de octubre de 1933 transformó múltiples relatos locales en uno de los casos de monstruos marinos más conocidos de Columbia Británica.
-
-### 1937 — Naden Harbour
-
-El cuerpo recuperado del estómago de un cachalote constituye el episodio físico más citado. La pérdida del espécimen es el principal límite documental.
-
-### 1984 — Cadboro Bay
-
-La Library and Archives Canada conserva un registro de un testimonio atribuido a un pescador que describió un animal de coloración clara, con rasgos inusuales y desplazamiento a distancia de su embarcación.
-
-### 1984 — estudiantes en Telegraph Bay
-
-Dos estudiantes describieron en 1997 un encuentro con una forma de aproximadamente 20 pies, con dos jorobas y una cabeza que compararon con la de una ballena.
-
-### 1997 — Desolation Sound
-
-Una familia relató dos encuentros en aguas tranquilas y profundas, incluyendo una forma inicialmente confundida con un tronco que se dividió visualmente en varios segmentos.
-
-[ ESPACIO VISUAL RESERVADO — FICHAS DE CASOS — TESTIMONIOS / CONTEXTO / LIMITACIONES ]
-
-## 11. Hipótesis
-
-### Gran vertebrado marino desconocido
-
-Propone un animal de gran tamaño todavía no descrito. Requeriría un espécimen o evidencia genética para superar la hipótesis.
-
-### Reptil marino superviviente
-
-Fue propuesta en la literatura criptozoológica, incluso mediante el nombre Cadborosaurus willsi. No existe evidencia paleontológica o biológica moderna que demuestre supervivencia de un reptil marino mesozoico en estas aguas.
-
-### Mamífero marino mal identificado
-
-Ballenas, pinnípedos y otros animales pueden explicar algunas observaciones, especialmente cuando sólo una parte del cuerpo emerge.
-
-### Pez remo u otros peces alargados
-
-La silueta de un pez largo cerca de la superficie puede producir una interpretación de 'serpiente marina', aunque esta explicación no necesariamente cubre todos los relatos.
-
-### Troncos, oleaje y objetos flotantes
-
-Condiciones de superficie pueden fragmentar visualmente un objeto largo en varias jorobas.
-
-### Construcción folclórica / cultural
-
-La tradición local puede influir en la interpretación de observaciones ambiguas y contribuir a la persistencia del fenómeno.
-
-### Fraude o exageración
-
-Algunos relatos o imágenes pueden ser fabricados, exagerados o reinterpretados después del hecho.
-
-[ ESPACIO VISUAL RESERVADO — MATRIZ DE HIPÓTESIS — EXPLICACIÓN / FORTALEZAS / DEBILIDADES ]
-
-## 12. Cultura popular
-
-Caddy ocupa un lugar importante dentro del folclore contemporáneo de Columbia Británica y de la cultura de los monstruos marinos del Pacífico. La British Columbia Folklore Society lo presenta como una figura reconocible del folclore provincial.
-
-La figura también aparece en literatura de criptozoología, publicaciones especializadas, documentales y contenidos de misterio.
-
-[ ESPACIO VISUAL RESERVADO — LÁMINA CULTURAL — CADDY EN COLUMBIA BRITÁNICA ]
-
-## 13. Comparativas
-
-La escala debe utilizar rangos testimoniales y no presentar una longitud definitiva.
-
-- Humano / buzo — referencia de escala.
-- Orca — gran vertebrado marino conocido.
-- Ballena gris — referencia de gran animal costero.
-- Pez remo — referencia de organismo alargado real.
-- Caddy — silueta hipotética basada en rasgos recurrentes de los relatos.
-
-[ ESPACIO VISUAL RESERVADO — LÁMINA COMPARATIVA — ESCALA Y SILUETAS ]
-
-## 14. Evaluación IIIC
-
-Distribución: Amplia en la costa de Columbia Británica y Pacífico Noroeste, con concentración histórica alrededor de Victoria.
-
-Número de testimonios: Elevado y documentado en varias décadas.
-
-Consistencia descriptiva: Moderada: existen rasgos recurrentes, pero también variaciones importantes.
-
-Evidencia física: Interesante históricamente por el caso Naden Harbour, pero no verificable hoy.
-
-Evidencia biológica: No concluyente; no existe espécimen o ADN aceptado.
-
-Documentación histórica: Alta para el fenómeno moderno desde 1933.
-
-Investigación: Activa en círculos de criptozoología; sin confirmación zoológica.
-
-Nivel propuesto: III — Múltiples testimonios consistentes.
-
-El Nivel III refleja la abundancia y recurrencia de testimonios, no la confirmación de una especie.
-
-### NIVEL III
-
-### MÚLTIPLES TESTIMONIOS CONSISTENTES
-
-[ ESPACIO VISUAL RESERVADO — SELLO IIIC ]
-
-## 15. Dictamen oficial del IIIC
-
-EXPEDIENTE AM-MAR-002
-
-CADDY (CADBOROSAURUS)
-
-El Instituto Internacional de Investigación Criptozoológica considera Caddy uno de los expedientes marinos americanos con mayor continuidad documental. Desde 1933 se acumularon testimonios, investigaciones regionales y registros periodísticos suficientes para justificar el mantenimiento del caso como expediente abierto.
-
-El caso Naden Harbour de 1937 merece atención histórica, pero la pérdida del cuerpo impide someterlo hoy a identificación anatómica, histológica o genética. Por tanto, no puede utilizarse como espécimen confirmado.
-
-La hipótesis de un reptil marino superviviente permanece especulativa. Las alternativas de identificación con fauna marina conocida, objetos flotantes y errores de percepción deben evaluarse caso por caso.
-
-DICTAMEN: CASO ABIERTO CON MÚLTIPLES TESTIMONIOS; EXISTENCIA DE LA ESPECIE NO CONFIRMADA.
-
-CLASIFICACIÓN IIIC PROPUESTA: NIVEL III.
-
-[ ESPACIO VISUAL RESERVADO — PÁGINA DE CIERRE — SELLO / CÓDIGO / COSTA DE BRITISH COLUMBIA ]
-
-## 16. Fuentes de investigación
-
-- Manuscrito base del Atlas Criptozoológico — Caddy (Cadborosaurus), expediente 14 y segundo de criaturas marinas.
-- Cadborosaurus.ca — History, Facts and Lore of the Cadborosaurus.
-- Cadborosaurus.ca — información general y testimonios.
-- Library and Archives Canada — registros históricos de testimonios sobre Cadborosaurus.
-- British Columbia Folklore Society — contexto de Caddy en el folclore provincial.
-- Cadborosaurus.ca — publicaciones y propuesta taxonómica de LeBlond & Bousfield.
-
-## 17. Control editorial
-
-- Se mantiene AM-MAR-002 como segundo expediente marino.
-- Se distingue el material del manuscrito base de la investigación externa.
-- El nombre Cadborosaurus willsi se presenta como propuesta taxonómica de autores criptozoológicos, no como especie aceptada por la zoología.
-- El cadáver de Naden Harbour se presenta como hallazgo histórico perdido, no como espécimen confirmado.
-- Los testimonios se mantienen separados de las evidencias físicas.
-- No se asigna una longitud definitiva al animal.
-- Las representaciones indígenas deberán llevar identificación cultural y procedencia cuando se incorporen.
-- Estado: expediente documental v2.0; listo para revisión editorial. Canva continúa bloqueado.
-
-[ ESPACIO VISUAL RESERVADO — INVENTARIO VISUAL — MAPA / ANATOMÍA / NADEN HARBOUR / CASOS / HIPÓTESIS / ESCALA ]
-
----
-
-## Fuentes de investigación
-
-- Manuscrito base del Atlas Criptozoológico — Caddy (Cadborosaurus), expediente 14 y segundo de criaturas marinas.
-- Cadborosaurus.ca — *History, Facts and Lore of the Cadborosaurus*.
-- Cadborosaurus.ca — información general y testimonios.
-- Library and Archives Canada — registros históricos de testimonios sobre Cadborosaurus.
-- British Columbia Folklore Society — contexto de Caddy en el folclore provincial.
-- Cadborosaurus.ca — publicaciones y propuesta taxonómica de LeBlond & Bousfield.
+La R1 queda cerrada con reservas. El expediente pasa a la matriz maestra para su evaluación final de aprobación/bloqueo antes de Canva. No se abre otra ronda específica salvo que la auditoría maestra determine que alguno de los vacíos pendientes sea crítico.
 
 ---
 
